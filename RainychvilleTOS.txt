@@ -41,28 +41,29 @@ TITLE I. DISCORD SERVER
 
     § 1001. Access to Rainychville.
 
-        1001.1. Rainychville may be accessed at any time by logging onto your Discord account proven
-        that you are not currently banned from the Server.
+        1001.1. Rainychville may be accessed at any time by logging onto
+        your Discord account proven that you are not currently banned from
+        the Server.
 
-        1001.2. If you are not in possession of a Discord account, you may create one if you are above
-        the age of 13 or the minimum age set by Discord for other countries and otherwise compliant
-        with the Discord Terms of Service, and then proceed to access Rainychville by clicking on the
-        link: "https://discord.gg/rainychville".
+        1001.2. If you are not in possession of a Discord account, you may
+        create one if you are above the age of 13 or the minimum age set by
+        Discord for other countries and otherwise compliant with the Discord
+        Terms of Service, and then proceed to access Rainychville by clicking
+        on the link: "https://discord.gg/rainychville".
 
     § 1002. Disclaimer
 
         1002.1. THIS IS NOT THE LEGALLY BINDING VERSION OF RAINYCHVILLE LAW.
-        REFER TO THE #RULES-AND-GUIDELINES CHANNEL FOR THE LEGALLY BINDING
-        RULES.
+        REFER TO THE #RULES-AND-GUIDELINES CHANNEL FOR THE LEGALLY BINDING RULES.
 
-        1002.2. IN THE EVENT OF DIFFERENCE IN MEANING BETWEEN THIS VERSION AND
-        THE #RULES-AND-GUIDELINES, THE #RULES-AND-GUIDELINES VERSION (COPYPASTED IN §1017) TAKES PRECEDENCE.
+        1002.2. IN THE EVENT OF DIFFERENCE IN MEANING BETWEEN THIS VERSION
+        AND THE #RULES-AND-GUIDELINES, THE #RULES-AND-GUIDELINES VERSION
+        ](COPYPASTED IN §1017) TAKES PRECEDENCE.
 
         1002.3. THIS IS A PARODY OF THE BORING TERMS AND CONDITIONS THAT MOST
-        COMPANIES TELL YOU TO READ WHEN YOU SIGN UP FOR AN ACCOUNT ON A
-        WEBSITE, AUTHORED COMPLETELY BY AN UNKNOWN PERSON UNDER THE
-        PSEUDONYM "RandomFan#3511" ON THE CHAT & VOIP SERVICE KNOWN AS
-        "DISCORD".
+        COMPANIES TELL YOU TO READ WHEN YOU SIGN UP FOR AN ACCOUNT ON A WEBSITE,
+        AUTHORED COMPLETELY BY AN UNKNOWN PERSON UNDER THE PSEUDONYM
+        "RandomFan#3511" ON THE CHAT & VOIP SERVICE KNOWN AS "DISCORD".
 
         1002.4. YOU HAVE NO LEGAL OBLIGATION TO COMPLY WITH EITHER OF THE TWO
         VERSIONS OF THE RULES BUT THE MODERATORS OR ADMINS CAN STILL BAN
@@ -75,184 +76,225 @@ TITLE I. DISCORD SERVER
 
     § 1003. Moderation and punishment.
 
-         1003.1. All users of the Rainychville discord must be at least 13 years or the minimum
-         age to use Discord in their country or older, in compliance with the Terms of Service of 
-         Discord, the website where Rainychville resides.
+        1003.1. All users of the Rainychville discord must be at least 13
+        years or the minimum age to use Discord in their country or older,
+        in compliance with the Terms of Service of Discord, the website
+        where Rainychville resides.
 
-         1003.2. You must comply with the Discord Terms of Service and Community Guidelines and
-         acknowledge that Discord can change both documents at anytime, with or without telling anyone.
+        1003.2. You must comply with the Discord Terms of Service and Community
+        Guidelines and acknowledge that Discord can change both documents at
+        anytime, with or without telling anyone.
 
-         1003.3. Rainych Ran is the supreme authority on the governance and administration of
-         Rainychville. Her decisions will at all times override those of the Moderation Team.
+        1003.3. Rainych Ran is the supreme authority on the governance and
+        administration of Rainychville. Her decisions will at all times
+        override those of the Moderation Team.
 
-         1003.4. The Moderation Team reserve the right at any time with or without notice to ban or
-         implement restrictions on your use of the Rainychville Discord.
+        1003.4. The Moderation Team reserve the right at any time with or
+        without notice to ban or implement restrictions on your use of the
+        Rainychville Discord.
 
-         1003.5. The Server is a Drama-free communication zone. Material criticising, discussing or
-         whose subject matter is clearly a moderation action should remain between the recipient of the
-         moderation action and the Moderation Team. Communicating this material in public warrants
-         additional punishments or Moderation Actions from the Moderation Team.
-         
-         1003.6. Gaius Cicereius#3705 acts as the primary messenger of information regarding
-         Moderation Actions and therefore DMs from the server shall be configured to be Accepted to
-         allow the Moderation Team to reliably transmit and inform users of Moderation Actions taken in
-         response to their infractions or violations of Rainychville law.
+        1003.5. The Server is a Drama-free communication zone. Material
+        criticising, discussing or whose subject matter is clearly a
+        moderation action should remain between the recipient of the
+        moderation action and the Moderation Team. Communicating this
+        material in public warrants additional punishments or Moderation
+        Actions from the Moderation Team.
+
+        1003.6. Gaius Cicereius#3705 acts as the primary messenger of 
+        information regarding Moderation Actions and therefore DMs from
+        the server shall be configured to be Accepted to allow the
+        Moderation Team to reliably transmit and inform users of
+        Moderation Actions taken in response to their infractions
+        or violations of Rainychville law.
 
     § 1004. Pinging of Rainych outside of non-Patreon channels.
 
-         1004.1. A ping of Rainych is defined as any action that causes an auditory event to occur on
-         Rainych Ran, device or otherwise presents an obstacle to Rainych Ran's ability to focus on her
-         current agenda.
+        1004.1. A ping of Rainych is defined as any action that causes 
+        an auditory event to occur on
+        Rainych Ran, device or otherwise presents an obstacle to Rainych Ran's ability to focus on her
+        current agenda.
 
-         1004.2. Patreon channels are defined as channels where only Patrons who have made a monetary
-         pledge to Rainych Ran are allowed to view, interact with, or send messages in.
+        1004.2. Patreon channels are defined as channels where only 
+        Patrons who have made a monetary
+        pledge to Rainych Ran are allowed to view, interact with, or
+        send messages in.
 
-         1004.3. Pinging of Rainych must not take place outside of Patreon Channels. Patreons shall
-         exercise due diligence at all times to avoid an excess of pings directed at Rainych Ran.
+        1004.3. Pinging of Rainych must not take place outside of 
+        Patreon Channels. Patreons shall exercise due diligence at
+        all times to avoid an excess of pings directed at Rainych Ran.
 
-         1004.4. An "Unauthorized Ping" shall be defined as a ping of Rainych that is either unnecessary,
-         unwanted, or otherwise undesirable to the general Community, the Moderation Team, or Rainych
-         herself.
+        1004.4. An "Unauthorized Ping" shall be defined as a ping of
+        Rainych that is either unnecessary, unwanted, or otherwise
+        undesirable to the general Community, the Moderation Team, or
+        Rainych herself.
 
-         1004.5. The Moderation Team of Rainychville shall exert the ultimate authority on moderation
-         actions taken in the event of an Unauthorized Ping or any other action that constitutes such an
-         Unauthorized Ping.
+        1004.5. The Moderation Team of Rainychville shall exert the 
+        ultimate authority on moderation actions taken in the event of
+        an Unauthorized Ping or any other action that constitutes such an
+        Unauthorized Ping.
 
     § 1005. Restrictions on toxic behaviour.
 
-        1005.1. Trolling, the act of intentionally causing emotional conflict or inciting flame wars shall
-        not be allowed on the Rainychville discord.
+        1005.1. Trolling, the act of intentionally causing emotional
+        conflict or inciting flame wars shall not be allowed on the
+        Rainychville discord.
 
-        1005.2. Immature behaviour shall not be tolerated. Immature behaviour consists, but is not
-        limited to:
+        1005.2. Immature behaviour shall not be tolerated. Immature
+        behaviour consists, but is not limited to:
 
-            a. Typing and grammatical errors indistinguishable from that of a minor below the
-            age of 13.
+            a. Typing and grammatical errors indistinguishable from
+               that of a minor below the age of 13.
 
-            b. Acting on the server in a manner that closely resembles an under-13 minor.
+            b. Acting on the server in a manner that closely
+               resembles an under-13 minor.
 
-        1005.3. No offensive content shall be transmitted in any channel of the Rainychville discord
-        server, via image channels or text.
+        1005.3. No offensive content shall be transmitted in any channel
+        of the Rainychville discord server, via image channels or text.
 
-        1005.4. An "image channel" is defined as an image publicly visible to users in the Rainychville
-        discord server, such as Discord profile images, or photographic attachments transmitted in the
-        public hall.
+        1005.4. An "image channel" is defined as an image publicly visible
+        to users in the Rainychville discord server, such as Discord profile
+        images, or photographic attachments transmitted in the public hall.
 
         1005.5. Any content posted via image channels may not:
 
-             a. Incorporate any elements considered by the community to warrant the designation
-             of "NSFW".
+            a. Incorporate any elements considered by the community to
+               warrant the designation of "NSFW".
 
-             b. Be pornographic in nature.
+            b. Be pornographic in nature.
 
-             c. Incorporate excessive violence or gore,
+            c. Incorporate excessive violence or gore,
 
-             d. or have content promoting or depicting self-harm.
+            d. or have content promoting or depicting self-harm.
 
-        1005.6. The server staff must be respected at all times and must be allowed to execute their duty
-        to protect and run the server without too much difficulty stemming from the user base.
+        1005.6. The server staff must be respected at all times and must be
+        allowed to execute their duty to protect and run the server without
+        too much difficulty stemming from the user base.
 
-        1005.7. You shall not repeatedly transmit content that is identical or very similar to previous
-        instances of said content in rapid succession in any channel of the Rainychville discord.
+        1005.7. You shall not repeatedly transmit content that is identical
+        or very similar to previous instances of said content in rapid
+        succession in any channel of the Rainychville discord.
 
     § 1006. Doxxing
 
-        1006.1. No member of the server shall engage in the act of doxxing, which is the transmission,
-        sharing, leaking, or communication of a member's personally identifiable information without the
-        member's express consent.
+        1006.1. No member of the server shall engage in the act of doxxing,
+        which is the transmission, sharing, leaking, or communication of a
+        member's personally identifiable information without the member's
+        express consent.
 
-        1006.2. Personally identifiable information in the case of the Rainychville discord server
-        constitutes:
+        1006.2. Personally identifiable information in the case of the
+        Rainychville discord server constitutes:
 
             1. A first and last name;
 
-            2. A home or other physical address including street name and name of a city or town;
+            2. A home or other physical address including street name and
+            name of a city or town;
 
             3. A telephone number;
 
             4. A Social Security number;
 
-            5. A persistent identifier that can be used to recognize a user over time and across
-               different Web sites or online services. Such persistent identifier includes, but is
-               not limited to, a customer number held in a cookie, an Internet Protocol (IP) address,
-               a processor or device serial number, or unique device identifier;
+            5. A persistent identifier that can be used to recognize a user
+            over time and across different Web sites or online services.
+            Such persistent identifier includes, but is not limited to, a
+            customer number held in a cookie, an Internet Protocol (IP) address,
+            a processor or device serial number, or unique device identifier;
 
-            6. A photograph, video, or audio file where such file contains a member's image or voice;
+            6. A photograph, video, or audio file where such file contains a 
+            member's image or voice;
 
-            7. and geolocation information sufficient to identify street name and name of a city or town.
+            7. and geolocation information sufficient to identify street name
+            and name of a city or town.
 
-        1006.3. Any person engaging in doxxing activity shall have their rights to use the Server's
-        services revoked upon attainment of sufficient reliable evidence to support this ban.
+        1006.3. Any person engaging in doxxing activity shall have their rights
+        to use the Server's services revoked upon attainment of sufficient 
+        reliable evidence to support this ban.
 
     § 1007. Unwanted commercial/promotional content
 
-        1007.1. No member of the Rainychville discord may not with promotional, sales-oriented or any
-        purpose considered "spammy", transmit promotional material or material that encourages users
-        reading it to either:
+        1007.1. No member of the Rainychville discord may not with promotional,
+        sales-oriented or any purpose considered "spammy", transmit promotional
+        material or material that encourages users reading it to either:
 
-            (1) Join 3rd party Discord servers unaffiliated with Rainychville itself;
-            (2) Watch a video or livestream outside of Rainychville's existing stream channels such as
-            on YouTube, Vimeo, or other similar videosharing service except for instances when
-            the intent is clearly to educate or inform (such as a link to a documentary about
-            Rainych);
-            (3) View material posted on a social media service outside of Rainychville;
-            (4) Or link to actual spam promotional material that encourages it's viewer to purchase a
-            product or service using real-life currency.
+            (1) Join 3rd party Discord servers unaffiliated with Rainychville
+                itself;
 
-        1007.2. Anyone wishing to transmit an external link to content that the external link’s poster
-        owns or exerts significant control over, should seek permission from the Moderation Team of
-        Rainychville.
+            (2) Watch a video or livestream outside of Rainychville's existing
+                stream channels such as on YouTube, Vimeo, or other similar
+                videosharing service except for instances when the intent is
+                clearly to educate or inform (such as a link to a documentary
+                about Rainych);
+      
+            (3) View material posted on a social media service outside of
+                Rainychville;
 
-        1007.3. Users that receive material that violates 1007.1 via private messages who wish to report it
-        to the moderation team must do so via private message.
+            (4) Or link to actual spam promotional material that encourages it's
+                viewer to purchase a product or service using real-life currency.
+
+        1007.2. Anyone wishing to transmit an external link to content that the
+        external link’s poster owns or exerts significant control over, should
+        seek permission from the Moderation Team of Rainychville.
+
+        1007.3. Users that receive material that violates 1007.1 via private
+        messages who wish to report it to the moderation team must do so via
+        private message.
 
     § 1008. Language.
 
-        1008.1. In all channels of the Rainychville discord except the channels designated for Indonesian
-        and Malay, the only language permitted to be spoken is the English language. Indonesian and
-        Malay languages are permitted only in their respective channels.
+        1008.1. In all channels of the Rainychville discord except the channels
+        designated for Indonesian and Malay, the only language permitted to be
+        spoken is the English language. Indonesian and Malay languages are 
+        permitted only in their respective channels.
 
-        1008.2. Anyone who does not speak the above 3 languages should be given recommendations to
-        use machine translation services or learn any of the 3 languages.
+        1008.2. Anyone who does not speak the above 3 languages should be given
+        recommendations to use machine translation services or learn any of the
+        3 languages.
 
     § 1009. Impersonation.
 
-        1009.1. Discord names and profiles must be distinctive enough to prevent confusion with a
-        Moderation Team member, Rainych, or any other user.
+        1009.1. Discord names and profiles must be distinctive enough to prevent
+        confusion with a Moderation Team member, Rainych, or any other user.
 
-        1009.2. Regardless of intent, any intentional impersonation will result in an immediate server
-        ban.
+        1009.2. Regardless of intent, any intentional impersonation will result
+        in an immediate server ban.
 
     § 1010. Enjoyment of Rainych music.
 
-         1010.1. Rainych Ran shall hold the sole rights to her voice and personality at all times with no
-         exception and may at any time reject song suggestions from Ministers.
+        1010.1. Rainych Ran shall hold the sole rights to her voice and personality
+        at all times with no exception and may at any time reject song suggestions
+        from Ministers.
 
-         1010.2. RandomFan#3511 is one of Rainych Ran's 1.5 million subscribers across the world and
-         beyond, and will not take responsibility for any legal action taken against you should you decide
-         to play Rainych music in your neighbourhood at a volume high enough to cause distress in the
-         ears of neighbours or to constitute violation of local noise restrictions.
+        1010.2. RandomFan#3511 is one of Rainych Ran's 1.5 million subscribers across
+        the world and beyond, and will not take responsibility for any legal action
+        taken against you should you decide to play Rainych music in your neighbourhood
+        at a volume high enough to cause distress in the ears of neighbours or to
+        constitute violation of local noise restrictions.
 
-         1010.3. You are solely responsible for any adverse effects you may experience while listening to
-         Rainych or watching any of her music videos including but not limited to epileptic seizures
-         caused by strobing, eye damage or blindness from blinding lights, high-pitched noises causing
-         distress to the ears, occult monsters or demons spawned via the accidental performance of a ritual
-         while attempting to recreate her singing, physical damage to the vocal cords or social humiliation
-         caused by distortion of your voice while attempting to recreate the singing voice of Rainych Ran.
+        1010.3. You are solely responsible for any adverse effects you may experience
+        while listening to Rainych or watching any of her music videos including but not
+        limited to epileptic seizures caused by strobing, eye damage or blindness from
+        blinding lights, high-pitched noises causing distress to the ears, occult
+        monsters or demons spawned via the accidental performance of a ritual while
+        attempting to recreate her singing, physical damage to the vocal cords or
+        social humiliation caused by distortion of your voice while attempting to
+        recreate the singing voice of Rainych Ran.
 
-         1010.4. If your country or jurisdiction imposes restrictions on the use or enjoyment of Rainych
-         music, you are obliged to either leave said country or jurisdiction or deal with it and comply.
+        1010.4. If your country or jurisdiction imposes restrictions on the use or
+        enjoyment of Rainych music, you are obliged to either leave said country or
+        jurisdiction or deal with it and comply.
 
-         1010.5. RandomFan#3511 is not obliged to provide the necessary tools to combat occult
-         monsters/demons that were summoned accidentally as part of an attempt to recreate her singing
-         voice such as:
+        1010.5. RandomFan#3511 is not obliged to provide the necessary tools to
+        combat occult monsters/demons that were summoned accidentally as part of 
+        an attempt to recreate her singing voice such as:
+
             a). salt;
             b). holy water;
             c). priest service;
-         and that RandomFan#3511 may or may not assist in combat with occult monsters/demons, or take
-         legal accountability in court for property damages, loss of life, acts of God (natural disasters),
-         backlash from local pastors, strict Christian parents or violations of law that are a direct result of
-         occult combat.
+
+        and that RandomFan#3511 may or may not assist in combat with occult
+        monsters/demons, or take legal accountability in court for property damages, 
+        loss of life, acts of God (natural disasters), backlash from local pastors,
+        strict Christian parents or violations of law that are a direct result of
+        occult combat.
 
     § 1011. Criticism of Rainych Ran.
 
