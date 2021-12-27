@@ -17,10 +17,10 @@ Preamble
     In addition to this Rainych Law reference, there are other documents written by
     Rainychville moderation staff.
 
-    Unofficial | Rainych Law Reference    | ECIR12.1.355.0001 |
-    Official   | Server Shop Matters      | ECIR12.1.355.0002 |
-    Official   | Server Trophy Rules      | ECIR12.1.355.0003 |
-    Official   | Trakteer Patronage Rules | ECIR12.1.355.0004 |
+    Unofficial | Rainych Law Reference    | ECIR12.1.355.1 |
+    Official   | Server Shop Matters      | ECIR12.1.355.2 |
+    Official   | Server Trophy Rules      | ECIR12.1.355.3 |
+    Official   | Trakteer Patronage Rules | ECIR12.1.355.4 |
 
     Server Shop law in this document: § 1014
     Trakteer Patronage law in this document: §2007
