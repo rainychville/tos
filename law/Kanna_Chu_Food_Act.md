@@ -48,6 +48,6 @@ subject to this order, but it shall be fungible.
 
 ## Archival
 >
-> - **Law identifier**: `2021.12 - 1`
+> - **Law identifier**: `12.1.355.5`
 > - **Author**: `RandomFan#3511`
 >
