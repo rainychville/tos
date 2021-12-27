@@ -1,0 +1,6 @@
+# No dotfiles allowed!
+.*
+
+# But .gitignore should
+# be okay
+!.gitignore
