@@ -155,7 +155,7 @@ TITLE I. DISCORD SERVER
         to users in the Rainychville discord server, such as Discord profile
         images, or photographic attachments transmitted in the public hall.
 
-        1005.5. Any content posted via image channels may not:
+        1005.5. Any content posted in any channel may not:
 
             a. Incorporate any elements considered by the community to
                warrant the designation of "NSFW".
