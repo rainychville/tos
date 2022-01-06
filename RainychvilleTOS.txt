@@ -29,15 +29,15 @@ TITLE I. DISCORD SERVER
 
     § 1000. Scope
 
-        1000.1. Title I of the Rainych Law T&Cs Edition applies to the Discord server known 
-        as "Rainychville".
+        1000.1. Title I of the Rainych Law T&Cs Edition applies to the Discord
+        server known as "Rainychville".
 
-        1000.2. If you choose to machine-translate this law document into other languages, the
-        machine-translated document should only be used as a general reference and not used 
-        to actually enforce the law.
+        1000.2. If you choose to machine-translate this law document into other
+        languages, the machine-translated document should only be used as a general
+        reference and not used  to actually enforce the law.
 
-        1000.3. If there is a difference in meaning between this English version and a machine-translated
-        version, the English version takes precedence.
+        1000.3. If there is a difference in meaning between this English version and
+        a machine-translated version, the English version takes precedence.
 
     § 1001. Access to Rainychville.
 
