@@ -85,7 +85,9 @@ SEC 3. FAILURE TO PATCH LOG4J.
      by deliberate failure to patch the Log4Shell exploit, or prevent it's
      exploitation via other means such as alteration of environment
      variables or preventing LDAP lookups, shall be criminally liable
-     for the breach of said data, and any other Rainychville law broken by the leakage of said data. Aforementioned organizations covered include but are not limited to:
+     for the breach of said data, and any other Rainychville law broken
+     by the leakage of said data. Aforementioned organizations covered
+     include but are not limited to:
         (a) Private or public companies;
         (b) The Rainychville Government itself; and
         (c) Individuals who operate or control services that
