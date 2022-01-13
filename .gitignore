@@ -1,6 +1,7 @@
 # No dotfiles allowed!
 .*
 
-# But .gitignore should
-# be okay
+# Allowlist (we use inclusive terminology here)
 !.gitignore
+!.gitkeep
+!.git*
