@@ -45,8 +45,14 @@ moderation staff of the Server to ensure that;
    complete non-presence of persons considered to pose
    a serious threat to the Server;
 
-   - c. Rainych music is played at a volume no lower than 70 decibels (dB), in at least one (1) location anywhere on Earth or any other inhabited location by humans outside  of Earth (e.g the International Space Station) where:
-      - i. there is an atmosphere that can serve as a medium for sound waves to pass into people's ears;
+   - c. Rainych music is played at a volume no lower
+   than 70 decibels (dB), in at least one (1) location
+   anywhere on Earth or any other inhabited location
+   by humans outside of Earth (e.g the International
+   Space Station) where:
+      - i. there is an atmosphere that can serve as
+      a medium for sound waves to pass into people's
+      ears;
 
       - ii. the playing of said music is permissible by
       noise-related regulations, the collective consensus

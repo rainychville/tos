@@ -65,7 +65,8 @@ SEC 3. VERIFICATION OF BURHANCHEESE IDENTITY.
          typing patterns, direct answers to any questions asked by the
          Community so long as the questions:
             (i) are not inappropriate or intentionally paradoxical;
-            (ii) or deliberately worded as to be impossible to answer properly.
+            (ii) or deliberately worded as to be impossible to answer
+             properly.
 ---------------------------------------------------------
 Law identifier: 12.1.355.7
 Author: RandomFan#3511
