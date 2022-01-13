@@ -29,7 +29,7 @@
 - Disrespecting the Server Staff
 
 ### No Pornographic or NSFW Content
-- Dissemination of NSFW/Offensive content in any form is prohibited in all chats. This includes, but is not limited to excessive gore/extreme violence, content related to self-harm or harming others, pornography, or excessively sexual content. 
+- Dissemination of NSFW/Offensive content in any form is prohibited in all chats. This includes, but is not limited to excessive gore/extreme violence, content related to self-harm or harming others, pornography, or excessively sexual content.
 - This rule also applies to Discord profiles.
 - If you are unsure if your content breaks these guidelines, please privately ask a moderator to review before posting it on the server.
 
@@ -43,7 +43,7 @@ Spamming is considered an act of ill will towards the people on the server and w
 
 ### Doxing
 - Posting private information of any member is strictly prohibited on the server. Encouraging or participating in this activity will result in an immediate ban.
- 
+
 ### Advertisement
 - This includes other Discord servers, streams, videos, social media, etc. If you feel that there is something you would like to post here that links to something that you own, please ask a moderator or administrator first.
 - If you receive any form of advertising from members of this server, please report it to a server staff member privately.
@@ -52,11 +52,11 @@ Spamming is considered an act of ill will towards the people on the server and w
 - This includes impersonation even without malicious intent.
 
 ### Converse Only in English
-- English is the primary language of the server. However, you may chat in Indonesian and Malay in their respective channel after assigning a role to yourself from 
+- English is the primary language of the server. However, you may chat in Indonesian and Malay in their respective channel after assigning a role to yourself from
 🔔┃get-roles.
 
 
 ***
 ­­
-> Anything not abiding by these is subject to removal at the Moderators' own discretion without warning. 
+> Anything not abiding by these is subject to removal at the Moderators' own discretion without warning.
 > We also strictly abide by the Discord Community Guidelines, and Discord ToS.

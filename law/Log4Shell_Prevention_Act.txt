@@ -15,7 +15,7 @@
                 AN ACT
 
         To prevent the exploitation of the
-        "Log4Shell" vulnerability in the Java 
+        "Log4Shell" vulnerability in the Java
         library known as Log4J.
 
 -----------------------------------------------------------------------------
@@ -75,7 +75,7 @@ SEC 2. DEFINITIONS.
      on the computer's operating system, it's configurations;
     (9) Environment variables as a series of key-value pairs on the computer,
      which defines values critical or useful to it's operation, including but
-     not limited to: 
+     not limited to:
         (a) API keys for accessing application programming interfaces,
          services, and other resources on remote servers, where this API
          key may be used for authorization, or authentication; and

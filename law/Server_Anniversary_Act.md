@@ -27,7 +27,7 @@ Index: ECIR 12.1.355.6 "Server Anniversary Act"
 ### Preamble
 
 This act shall define a new Public Holiday within the
-jurisdiction of the Rainych Space called "Rainychville Day" 
+jurisdiction of the Rainych Space called "Rainychville Day"
 which shall take place every Gregorian calendar year
 on the Gregorian date of September 25.
 
@@ -44,11 +44,11 @@ moderation staff of the Server to ensure that;
    Anniversary and related events by ensuring the
    complete non-presence of persons considered to pose
    a serious threat to the Server;
-                
+
    - c. Rainych music is played at a volume no lower than 70 decibels (dB), in at least one (1) location anywhere on Earth or any other inhabited location by humans outside  of Earth (e.g the International Space Station) where:
       - i. there is an atmosphere that can serve as a medium for sound waves to pass into people's ears;
-                     
-      - ii. the playing of said music is permissible by 
+
+      - ii. the playing of said music is permissible by
       noise-related regulations, the collective consensus
       of nearby residents, the wisdom of Rainych herself,
       or any combination of the two.
@@ -72,7 +72,7 @@ enforced alongside the Server Anniversary Act.
 
     Rainychville Government
     Server Anniversary Act
-  
+
   | Supplementary documentation |
   | to the Rainychville Terms & |
   | Conditions                  |
@@ -84,7 +84,7 @@ enforced alongside the Server Anniversary Act.
     I.   Preamble
 
         This act shall define a new Public Holiday within the
-        jurisdiction of the Rainych Space called "Rainychville Day" 
+        jurisdiction of the Rainych Space called "Rainychville Day"
         which shall take place every Gregorian calendar year
         on the Gregorian date of September 25.
 
@@ -102,17 +102,17 @@ enforced alongside the Server Anniversary Act.
                    events by ensuring the complete non-presence
                    of persons considered to pose a serious threat
                    to the Server;
-                
+
                 c. Rainych music is played at a volume no lower
                    than 70 decibels (dB), in at least one (1)
                    location anywhere on Earth or any other
-                   inhabited location by humans outside 
+                   inhabited location by humans outside
                    of Earth (e.g the International Space Station)
                    where:
                      i. there is an atmosphere that can serve
                         as a medium for sound waves to pass into
                         people's ears;
-                     
+
                      ii. the playing of said music is permissible
                          by noise-related regulations, the
                          collective consensus of nearby residents,

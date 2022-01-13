@@ -5,7 +5,7 @@
 
             Kanna Chu Food Act
 
-        
+
 
         AN ACT to define Kanna Chu, in perpetuity
         as a food that can be eaten legally with

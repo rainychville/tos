@@ -10,7 +10,7 @@
 
             Burhan Impersonation Act
 
-        
+
 
         AN ACT to prevent in perpetuity any method
         of impersonating BurhanCheese, in response
@@ -20,7 +20,7 @@
 -----------------------------------------------------------------------------
 
 SEC 1. GENERAL
-    (1) No person, in any context that may include the self-identification 
+    (1) No person, in any context that may include the self-identification
      of a sapient entity or a group that consists entirely of sapient
      entities by a name or colloquial identifier, use the following
      names/identifiers ``Burhan``, ``BurhanCheese``, or any terms that may
