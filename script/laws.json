@@ -2,26 +2,31 @@
     {
         "name": "Rainychville Terms of Service",
         "path": "/RainychvilleTOS.txt",
-        "repealed": false
+        "repealed": false,
+        "format": "plaintext"
     },
     {
         "name": "Burhan Impersonation Act",
         "path": "/law/Burhan_Impersonation_Act.txt",
-        "repealed": false
+        "repealed": false,
+        "format": "plaintext"
     },
     {
         "name": "Kanna Chu Food Act",
         "path": "/law/Kanna_Chu_Food_Act.txt",
-        "repealed": false
+        "repealed": false,
+        "format": "plaintext"
     },
     {
         "name": "Log4Shell Prevention Act",
         "path": "/law/Log4Shell_Prevention_Act.txt",
-        "repealed": false
+        "repealed": false,
+        "format": "plaintext"
     },
     {
         "name": "Server Anniversary Act",
         "path": "/law/Server_Anniversary_Act.txt",
-        "repealed": false
+        "repealed": false,
+        "format": "plaintext"
     }
 ]
