@@ -80,9 +80,9 @@ TITLE I. DISCORD SERVER
         in compliance with the Terms of Service of Discord, the website
         where Rainychville resides.
 
-        1003.2. You must comply with the Discord Terms of Service and Community
-        Guidelines and acknowledge that Discord can change both documents at
-        anytime, with or without telling anyone.
+        1003.2. You must comply with the Discord Terms of Service and
+        Community Guidelines and acknowledge that Discord can change both
+        documents at anytime, with or without telling anyone.
 
         1003.3. Rainych Ran is the supreme authority on the governance and
         administration of Rainychville. Her decisions will at all times
@@ -99,12 +99,12 @@ TITLE I. DISCORD SERVER
         material in public warrants additional punishments or Moderation
         Actions from the Moderation Team.
 
-        1003.6. Gaius Cicereius#3705 acts as the primary messenger of 
+        1003.6. Gaius Cicereius#3705 acts as the primary messenger of
         information regarding Moderation Actions and therefore DMs from
         the server shall be configured to be Accepted to allow the
-        Moderation Team to reliably transmit and inform users of
-        Moderation Actions taken in response to their infractions
-        or violations of Rainychville law.
+        Moderation Team to reliably transmit and inform users of Moderation
+        Actions taken in response to their infractions or violations of
+        Rainychville law.
 
     § 1004. Pinging of Rainych outside of non-Patreon channels.
 
