@@ -1,0 +1,169 @@
+[From RandomFan#3511 Rainychville Law Services]
+[ECIR 12.1.355.9]
+
+
+
+
+-----------------------------------------------------------------------------
+
+            Rainychville Government
+
+            January 16, 2022 CE
+
+            Rainychville Talents Act
+
+                AN ACT
+
+        To regulate the posting of materials in
+        the Rainychville #rv-talents channel.
+
+-----------------------------------------------------------------------------
+SEC 1. SHORT TITLE.
+    (1) This act may be cited as the "Rainychville Talents Act".
+SEC 2. DEFINITIONS.
+    (1) Talent, solely in the context of
+        (1) the Rainychville Discord server, specifically the
+         #rv-talents channel;
+        (2) the process of criticizing, consuming any talent content, or
+        establishing the validity of any such recorded content, to establish
+        whether it's author may be entitled to rewards for submitted talent,
+        whereas rewards are defined in clause 2.2 of this act;
+     means any form of entertainment or work entitled to copyright protection,
+     where such material:
+        (1) is not an image macro, where it is an image containing text,
+         where such text may be a 'witty phrase', or catchphrase, regardless
+         of whether such text is affixed on the image with humorous intent;
+        (2) is not obscene;
+        (3) is not illegal to reproduce or consume in any form;
+        (4) is original, and not reproduced in a way that may violate any
+         copyright except for any work where the concept of 'fair use' may
+         apply, where an exception shall be granted for a 'cover' of a
+         musical work, or a re-performance of the work where it can be
+         considered to be a 'cover';
+        (5) does not offend any group of people, or insult them based on
+         their protected characteristics.
+    (2) Reward means any form of privilege or material good, or title granted
+     to a person in exchange for:
+        (1) any action performed, where such action either:
+            (1) occured in a competition;
+            (2) was an act of goodwill towards the Server or any group of
+             members; or
+        (2) any resource or material; such as the submission of talent.
+    (3) Disqualification means to prevent a submission from winning a
+     competition, therefore granting no privileges or rewards to their
+     authors for the submission of the work.
+SEC 3. TALENT SUBMISSION.
+    (1) No person, unless such person either:
+        (1) is a Patreon of Rainych; or
+        (2) has the Tatsu rank of "Rookie" or higher;
+     may, at any time, unless an exception is granted submit any form of
+     talent to the #rv-talents channel or publish such talent with the
+     intent of it being rated by staff or entered into any official talent
+     competition organized by the Rainychville Government or any staff.
+    (2) If a person is allowed to submit talent, to make such a submission,
+     the person shall:
+        (1) prepare their talent; and
+        (2) present it in a method that is accessible, such as uploading it
+         in an accessible file format, such as one of the Recommended Storage
+         Formats defined by the United States' Library of Congress [1]; and
+        (3) put reasonable effort into the distribution, performance of the
+         talent work; and
+        (4) affirm that reasonable effort has been put into the manufacture,
+         preparation, or creation of the talent; and
+        (5) affirm that they are either the sole author of the talent; or
+         where such talent has been created with assistance from other people,
+         that the submitter is the primary author.
+SEC 4. REWARDS FOR TALENT SUBMISSIONS.
+    (1) When a talent work:
+        (1) has been determined by a judge or group of such judges to be
+         of high-enough quality or to be of a desirable attribute;
+        (2) meets the sufficient criteria defined in a competition where
+         it was submitted per compliance with Section 3.2;
+     the author or group of authors of such a work shall be rewarded with a
+     Reward; where such Reward either meets the definition of a Reward in
+     Section 2.2, or including but not limited to:
+        (1) a Patreon tier, where such subscription or the privileges
+         of the aforementioned subscription is granted at reduced or no cost
+         or conditions to the author where such Patreon tier applies to
+         Rainych Ran or any potential person affiliated with the competition;
+        (2) a rank in the Rainychville Discord server, where such rank may
+         grant the author, including but not limited to:
+            (1) a colored name;
+            (2) the right to post messages in another channel;
+            (3) immunity to restrictions on the frequency of posting
+             messages in a channel; or
+            (4) extended rights or privileges.
+    (2) Before a reward is provided, measures shall be taken to:
+        (1) verify the identity of the person recieving the reward to ensure
+         that it is the author of a work deemed worthy as per Section 4.1;
+        (2) ensure the integrity of the reward being provided, to ensure
+         that it cannot be taken away unless required or as part of the
+         enforcement of a law.
+SEC 5. CHEATING OR DISHONEST BEHAVIOR.
+    (1) In the event that there is sufficient evidence to support the
+     assertion that:
+        (1) A person has dishonestly submitted a talent work, whereas such
+         talent work may have been plagiarized wholly or if such plagiarism
+         is partial, the size of the portion of the talent work that has
+         been plagiarised is enough to constitute copyright infringement and
+         therefore not in the scope of "fair use";
+        (2) A person has dishonestly influenced the opinion of the judges;
+         whether by:
+            (1) the act of bribery; or
+            (2) the act of threatening violent actions against the family or
+             relatives of any judge, or against the judge themself;
+     the person, if found guilty:
+        (1) shall be prohibited from submitting any more talent material to
+         any talent competition, in the Rainychville Government; and
+        (2) if any crime was committed during the occurence of such
+         dishonest acts, further penalized depending on the crime.
+    (2) Where anyone is an accessory to an offense defined by Section 5.1,
+     they must be penalized, where the effect of such penalty shall be
+     proportional to their role as an accessory to the offense.
+    (3) If a judge accepts a bribe from a person to influence their rating
+     of a particular submission, that judge shall be stripped of their
+     responsibilities and privileges as a judge and barred from making any
+     further judgements regarding submissions.
+SEC 6. ADVERTISEMENT.
+    (1) No talent shall be oriented around the sale of a particular product
+     or service; where if it is oriented around such, the intent is
+     considered spammy or to sell such product or service.
+    (2) If a talent work is construed as being an advertisement, the talent
+     work shall be disqualified and the author denied any reward directly
+     related to such talent work.
+SEC 7. TALENT-SPECIFIC GUIDELINES.
+    (1) Where the talent is a moving image or video, the video shall:
+        (1) not be considered 'random', such as a video that is a 'meme',
+         or is low-quality;
+        (2) contain subject matter that may be construed as talent, including
+        but not limited to:
+            (1) A video of the person covering or performing a
+             cover of the song; or
+            (2) A 'timelapse' of some action, where 'timelapse' means that
+             the video has been sped up significantly, and that the video
+             proceeds at a much faster rate than real-time.
+SEC 8. ACCESSIBLE FILE FORMATS.
+    (1) File formats for any digital copy of a talent may be a Recommended
+     Storage Format defined by the United States Library of Congress.
+    (2) Any file format chosen by the US LOC may be overridden by any
+     Rainychville Government as a standard.
+    (3) Judges shall be permitted to use conversion tools to convert
+     submissions provided in non-accessible file formats to accessible
+     formats, and review the submission in their copy of the material in
+     the converted format.
+    (4) No submission shall be protected by any form of digital rights
+     management. In the event that a file's DRM cannot be removed, if the
+     author fails to supply a key or method of accessing the content, the
+     submission shall be disqualified.
+    (5) Should a submission consist of several files, should the author
+     choose to send in the submission as an archive or compressed file, the
+     archival (concatenation of file contents in a single file, alongside the
+     ability to "unzip" or "extract" the file, recreating the original
+     content and filesystem hierarchy), or compressed format, the format
+     of archival/compression shall be accessible.
+    (6) If a submission in a non-accessible file format cannot be accessed
+     reliably, due to the attributes of such non-accessible file format, the
+     submission shall be disqualified.
+-----------------------------------------------------------------------------
+[1] https://www.loc.gov/preservation/resources/rfs/
+    

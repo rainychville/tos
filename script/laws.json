@@ -28,5 +28,11 @@
         "path": "/law/Server_Anniversary_Act.txt",
         "status": "active",
         "format": "plaintext"
+    },
+    {
+        "name": "Rainychville Talents Act",
+        "path": "/law/Rainychville_Talents_Act.txt",
+        "status": "active",
+        "format": "plaintext"
     }
 ]
