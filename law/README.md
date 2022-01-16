@@ -4,6 +4,8 @@ Other laws of Rainychville, not necessarily the TOS.
 
 Parody notices in root directory of this repository.
 
+A list of laws is available [here](LAW_INDEX.md).
+
 ## Law notation
 Rainychville law numbers begin with `12.1.355.`. Sections
 in laws use dot-based syntax. For example, Section 1003
