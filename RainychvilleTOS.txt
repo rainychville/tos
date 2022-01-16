@@ -9,12 +9,13 @@
 
 Preamble
 
-    Rainychville is the Discord server of Rainych Ran. This document serves as a general
-    reference to Rainych Law and it's provisions. Combined, as of June 1, 2021, the full
-    text of Rainychville law currently adds up to 829.1 billion pages.
+    Rainychville is the Discord server of Rainych Ran. This document serves
+    as a general reference to Rainych Law and it's provisions. Combined, as
+    of June 1, 2021, the full text of Rainychville law currently adds up to
+    829.1 billion pages.
 
-    In addition to this Rainych Law reference, there are other documents written by
-    Rainychville moderation staff.
+    In addition to this Rainych Law reference, there are other documents
+    written by Rainychville moderation staff.
 
     Unofficial | Rainych Law Reference    | ECIR12.1.355.1 |
     Official   | Server Shop Matters      | ECIR12.1.355.2 |
@@ -31,12 +32,13 @@ TITLE I. DISCORD SERVER
         1000.1. Title I of the Rainych Law T&Cs Edition applies to the Discord
         server known as "Rainychville".
 
-        1000.2. If you choose to machine-translate this law document into other
-        languages, the machine-translated document should only be used as a general
-        reference and not used  to actually enforce the law.
+        1000.2. If you choose to machine-translate this law document into
+        other languages, the machine-translated document should only be used
+        as a general reference and not used to actually enforce the law.
 
-        1000.3. If there is a difference in meaning between this English version and
-        a machine-translated version, the English version takes precedence.
+        1000.3. If there is a difference in meaning between this English
+        version and a machine-translated version, the English version takes
+        precedence.
 
     § 1001. Access to Rainychville.
 
@@ -53,15 +55,16 @@ TITLE I. DISCORD SERVER
     § 1002. Disclaimer
 
         1002.1. THIS IS NOT THE LEGALLY BINDING VERSION OF RAINYCHVILLE LAW.
-        REFER TO THE #RULES-AND-GUIDELINES CHANNEL FOR THE LEGALLY BINDING RULES.
+        REFER TO THE #RULES-AND-GUIDELINES CHANNEL FOR THE LEGALLY BINDING
+        RULES.
 
         1002.2. IN THE EVENT OF DIFFERENCE IN MEANING BETWEEN THIS VERSION
         AND THE #RULES-AND-GUIDELINES, THE #RULES-AND-GUIDELINES VERSION
         ](COPYPASTED IN §1017) TAKES PRECEDENCE.
 
         1002.3. THIS IS A PARODY OF THE BORING TERMS AND CONDITIONS THAT MOST
-        COMPANIES TELL YOU TO READ WHEN YOU SIGN UP FOR AN ACCOUNT ON A WEBSITE,
-        AUTHORED COMPLETELY BY AN UNKNOWN PERSON UNDER THE PSEUDONYM
+        COMPANIES TELL YOU TO READ WHEN YOU SIGN UP FOR AN ACCOUNT ON A
+        WEBSITE, AUTHORED COMPLETELY BY AN UNKNOWN PERSON UNDER THE PSEUDONYM
         "RandomFan#3511" ON THE CHAT & VOIP SERVICE KNOWN AS "DISCORD".
 
         1002.4. YOU HAVE NO LEGAL OBLIGATION TO COMPLY WITH EITHER OF THE TWO
@@ -110,13 +113,12 @@ TITLE I. DISCORD SERVER
 
         1004.1. A ping of Rainych is defined as any action that causes 
         an auditory event to occur on
-        Rainych Ran, device or otherwise presents an obstacle to Rainych Ran's ability to focus on her
-        current agenda.
+        Rainych Ran, device or otherwise presents an obstacle to Rainych Ran's
+        ability to focus on her  current agenda.
 
         1004.2. Patreon channels are defined as channels where only 
-        Patrons who have made a monetary
-        pledge to Rainych Ran are allowed to view, interact with, or
-        send messages in.
+        Patrons who have made a monetary pledge to Rainych Ran are allowed
+        to view, interact with, or send messages in.
 
         1004.3. Pinging of Rainych must not take place outside of 
         Patreon Channels. Patreons shall exercise due diligence at
@@ -195,8 +197,9 @@ TITLE I. DISCORD SERVER
             5. A persistent identifier that can be used to recognize a user
             over time and across different Web sites or online services.
             Such persistent identifier includes, but is not limited to, a
-            customer number held in a cookie, an Internet Protocol (IP) address,
-            a processor or device serial number, or unique device identifier;
+            customer number held in a cookie, an Internet Protocol (IP)
+            address, a processor or device serial number, or unique device
+            identifier;
 
             6. A photograph, video, or audio file where such file contains a 
             member's image or voice;
@@ -204,15 +207,16 @@ TITLE I. DISCORD SERVER
             7. and geolocation information sufficient to identify street name
             and name of a city or town.
 
-        1006.3. Any person engaging in doxxing activity shall have their rights
-        to use the Server's services revoked upon attainment of sufficient 
-        reliable evidence to support this ban.
+        1006.3. Any person engaging in doxxing activity shall have their
+        rights to use the Server's services revoked upon attainment of
+        sufficient reliable evidence to support this ban.
 
     § 1007. Unwanted commercial/promotional content
 
-        1007.1. No member of the Rainychville discord may not with promotional,
-        sales-oriented or any purpose considered "spammy", transmit promotional
-        material or material that encourages users reading it to either:
+        1007.1. No member of the Rainychville discord may not with
+        promotional, sales-oriented or any purpose considered "spammy",
+        transmit promotional material or material that encourages users
+        reading it to either:
 
             (1) Join 3rd party Discord servers unaffiliated with Rainychville
                 itself;
@@ -226,12 +230,13 @@ TITLE I. DISCORD SERVER
             (3) View material posted on a social media service outside of
                 Rainychville;
 
-            (4) Or link to actual spam promotional material that encourages it's
-                viewer to purchase a product or service using real-life currency.
+            (4) Or link to actual spam promotional material that encourages
+                it's viewer to purchase a product or service using real-life
+                currency.
 
-        1007.2. Anyone wishing to transmit an external link to content that the
-        external link’s poster owns or exerts significant control over, should
-        seek permission from the Moderation Team of Rainychville.
+        1007.2. Anyone wishing to transmit an external link to content that
+        the external link’s poster owns or exerts significant control over,
+        should seek permission from the Moderation Team of Rainychville.
 
         1007.3. Users that receive material that violates 1007.1 via private
         messages who wish to report it to the moderation team must do so via
@@ -239,130 +244,146 @@ TITLE I. DISCORD SERVER
 
     § 1008. Language.
 
-        1008.1. In all channels of the Rainychville discord except the channels
-        designated for Indonesian and Malay, the only language permitted to be
-        spoken is the English language. Indonesian and Malay languages are 
-        permitted only in their respective channels.
+        1008.1. In all channels of the Rainychville discord except the
+        channels designated for Indonesian and Malay, the only language
+        permitted to be spoken is the English language. Indonesian and
+        Malay languages are permitted only in their respective channels.
 
-        1008.2. Anyone who does not speak the above 3 languages should be given
-        recommendations to use machine translation services or learn any of the
-        3 languages.
+        1008.2. Anyone who does not speak the above 3 languages should be
+        given recommendations to use machine translation services or learn
+        any of the 3 languages.
 
     § 1009. Impersonation.
 
-        1009.1. Discord names and profiles must be distinctive enough to prevent
-        confusion with a Moderation Team member, Rainych, or any other user.
+        1009.1. Discord names and profiles must be distinctive enough to
+        prevent confusion with a Moderation Team member, Rainych, or any
+        other user.
 
-        1009.2. Regardless of intent, any intentional impersonation will result
-        in an immediate server ban.
+        1009.2. Regardless of intent, any intentional impersonation will
+        result in an immediate server ban.
 
     § 1010. Enjoyment of Rainych music.
 
-        1010.1. Rainych Ran shall hold the sole rights to her voice and personality
-        at all times with no exception and may at any time reject song suggestions
-        from Ministers.
+        1010.1. Rainych Ran shall hold the sole rights to her voice and
+        personality at all times with no exception and may at any time reject
+        song suggestions from Ministers.
 
-        1010.2. RandomFan#3511 is one of Rainych Ran's 1.5 million subscribers across
-        the world and beyond, and will not take responsibility for any legal action
-        taken against you should you decide to play Rainych music in your neighbourhood
-        at a volume high enough to cause distress in the ears of neighbours or to
-        constitute violation of local noise restrictions.
+        1010.2. RandomFan#3511 is one of Rainych Ran's 1.5 million subscribers
+        across the world and beyond, and will not take responsibility for any
+        legal action taken against you should you decide to play Rainych music
+        in your neighbourhood at a volume high enough to cause distress in the
+        ears of neighbours or to constitute violation of local noise
+        restrictions.
 
-        1010.3. You are solely responsible for any adverse effects you may experience
-        while listening to Rainych or watching any of her music videos including but not
-        limited to epileptic seizures caused by strobing, eye damage or blindness from
-        blinding lights, high-pitched noises causing distress to the ears, occult
-        monsters or demons spawned via the accidental performance of a ritual while
-        attempting to recreate her singing, physical damage to the vocal cords or
-        social humiliation caused by distortion of your voice while attempting to
+        1010.3. You are solely responsible for any adverse effects you may
+        experience while listening to Rainych or watching any of her music
+        videos including but not limited to epileptic seizures caused by
+        strobing, eye damage or blindness from blinding lights, high-pitched
+        noises causing distress to the ears, occult monsters or demons spawned
+        via the accidental performance of a ritual while attempting to
+        recreate her singing, physical damage to the vocal cords or social
+        humiliation caused by distortion of your voice while attempting to
         recreate the singing voice of Rainych Ran.
 
-        1010.4. If your country or jurisdiction imposes restrictions on the use or
-        enjoyment of Rainych music, you are obliged to either leave said country or
-        jurisdiction or deal with it and comply.
+        1010.4. If your country or jurisdiction imposes restrictions on the
+        use or enjoyment of Rainych music, you are obliged to either leave
+        said country or jurisdiction or deal with it and comply.
 
-        1010.5. RandomFan#3511 is not obliged to provide the necessary tools to
-        combat occult monsters/demons that were summoned accidentally as part of 
-        an attempt to recreate her singing voice such as:
+        1010.5. RandomFan#3511 is not obliged to provide the necessary tools
+        to combat occult monsters/demons that were summoned accidentally as
+        part of an attempt to recreate her singing voice such as:
 
             a). salt;
             b). holy water;
             c). priest service;
 
         and that RandomFan#3511 may or may not assist in combat with occult
-        monsters/demons, or take legal accountability in court for property damages, 
-        loss of life, acts of God (natural disasters), backlash from local pastors,
-        strict Christian parents or violations of law that are a direct result of
-        occult combat.
+        monsters/demons, or take legal accountability in court for property
+        damages, loss of life, acts of God (natural disasters), backlash
+        from local pastors, strict Christian parents or violations of law
+        that are a direct result of occult combat.
 
     § 1011. Criticism of Rainych Ran.
 
-        1011.1. You agree that all criticism of Rainych Ran that you transmit or communicate publicly
-        will be constructive, respectful, and not ad hominem. You also agree that the mods may ban or
-        restrict your use of the Services at any time should they uncover sufficient evidence of violations.
+        1011.1. You agree that all criticism of Rainych Ran that you transmit
+        or communicate publicly will be constructive, respectful, and not ad
+        hominem. You also agree that the mods may ban or restrict your use of
+        the Services at any time should they uncover sufficient evidence of
+        violations.
 
-        1011.2. You must not transmit, manufacture, design, or otherwise bring into existence any
-        factually inaccurate defamatory material regarding Rainych Ran.
+        1011.2. You must not transmit, manufacture, design, or otherwise bring
+        into existence any factually inaccurate defamatory material regarding
+        Rainych Ran.
 
     § 1012. Meme restrictions
 
-        1012.1. You may post no more than 30 memes daily. You must not spam the public hall of
-        Rainychville with memes unrelated to Rainychville.
+        1012.1. You may post no more than 30 memes daily. You must not spam
+        the public hall of Rainychville with memes unrelated to Rainychville.
 
-        1012.2. You must cease the posting of images if you are instructed by the Moderation Team to do
-        so.
+        1012.2. You must cease the posting of images if you are instructed by
+        the Moderation Team to do so.
 
-        1012.3. If the content of your meme relates to Rainychville you are to post it in the RV Memes
-        channel.
+        1012.3. If the content of your meme relates to Rainychville you are to
+        post it in the RV Memes channel.
 
     § 1013. Rainychville events.
 
-        1013.1. Rainychville events are sometimes hosted by moderators. This can include movie
-        screenings, game tournaments, special streams, April Fools events, etc.
+        1013.1. Rainychville events are sometimes hosted by moderators. This
+        can include movie screenings, game tournaments, special streams, April
+        Fools events, etc.
 
-        1013.2. You have the right to participate in all Rainychville events so long as you do not violate
-        any provisions of this law intentionally or unintentionally. You also grant the Moderation Team
-        the irrevocable right to permanently or temporarily bar you from participating in Rainychville
-        events for any reason whether rational or irrational from your perspective.
+        1013.2. You have the right to participate in all Rainychville events
+        so long as you do not violate any provisions of this law intentionally
+        or unintentionally. You also grant the Moderation Team the irrevocable
+        right to permanently or temporarily bar you from participating in
+        Rainychville events for any reason whether rational or irrational
+        from your perspective.
 
-        1013.3. You also agree that you will participate in events you choose to join in a manner that does
-        not violate any IRL curfew, law, restriction, or any provision of this Terms and Conditions
-        document.
+        1013.3. You also agree that you will participate in events you choose
+        to join in a manner that does not violate any IRL curfew, law,
+        restriction, or any provision of this Terms and Conditions document.
 
     § 1014. Server shop and trophy roles.
 
-         1014.1. All server shop transactions are done using Tatsu Points. Therefore, to use the Tatsu shop,
-         you must agree to the terms of service of Tatsu to purchase from the Store. There are several
-         items available for purchase and you agree that the Moderation Team or Rainych can revoke,
-         change the price of, or add new items to the store at any time with or without notice.
+        1014.1. All server shop transactions are done using Tatsu Points.
+        Therefore, to use the Tatsu shop, you must agree to the terms of
+        service of Tatsu to purchase from the Store. There are several
+        items available for purchase and you agree that the Moderation Team
+        or Rainych can revoke, change the price of, or add new items to the
+        store at any time with or without notice.
 
-         1014.2. You agree that for any reason at any time items and perks you own or purchase with Tatsu
-         Points may be taken away from you by Rainych or the Moderation Team for any reason with or
-         without notice.
+        1014.2. You agree that for any reason at any time items and perks you
+        own or purchase with Tatsu Points may be taken away from you by
+        Rainych or the Moderation Team for any reason with or without notice.
 
-         1014.3. By purchasing anything from the Server Shop, you agree that you will permanently lose
-         the right to request a refund for that item unless decided otherwise by Rainych or the Moderation
-         Team.
+        1014.3. By purchasing anything from the Server Shop, you agree that
+        you will permanently lose the right to request a refund for that item
+        unless decided otherwise by Rainych or the Moderation Team.
 
     § 1015. Channel-specific rules
 
-         1015.1. You must only speak Malay in the Malay channel.
+        1015.1. You must only speak Malay in the Malay channel.
 
-         1015.2. You must only speak Bahasa Indonesia in the Indonesian channel.
+        1015.2. You must only speak Bahasa Indonesia in the Indonesian
+        channel.
 
-         1015.3. All memes in the RV Memes channel must be related to Rainychville.
+        1015.3. All memes in the RV Memes channel must be related to
+        Rainychville.
 
     § 1016. Copyright
 
-         1016.1. By sending messages in Rainychville you grant Rainychville and Discord a worldwide,
-         royalty-free, irrevocable, sub-licensable, eternally-lasting License to display, transmit, publish,
-         prepare derivative works or otherwise modify your messages at any time. You retain the
-         copyright to your work. § 1016.1 is only necessary for us to be able to host the messages you post
-         so that others can see it. We only need permission to show it to others, that is all.
+        1016.1. By sending messages in Rainychville you grant Rainychville
+        and Discord a worldwide, royalty-free, irrevocable, sub-licensable,
+        eternally-lasting License to display, transmit, publish, prepare
+        derivative works or otherwise modify your messages at any time. You
+        retain the copyright to your work. § 1016.1 is only necessary for us
+        to be able to host the messages you post so that others can see it.
+        We only need permission to show it to others, that is all.
          
-         1016.2. You must not infringe upon any intellectual property rights if you post any content to
-         Rainychville, unless you are sure that it is fair use under the Digital Millenium Copyright Act in
-         the United States of America.
+        1016.2. You must not infringe upon any intellectual property rights
+        if you post any content to Rainychville, unless you are sure that it
+        is fair use under the Digital Millenium Copyright Act in the United
+        States of America.
 
     § 1017. Copy-pasted text of the actual rules of the Rainychville
     Discord server.
@@ -370,10 +391,12 @@ TITLE I. DISCORD SERVER
         Accurate May 16, 2021. Written by the Rainychville Moderation Team.
 
         Do Not Ping Rainych
-            Pinging Rainych outside of Patreon exclusive channels is prohibited. This is to prevent excess
-            spam of pings for her.
-            Whilst pinging Rainych in Patreon exclusive channel is okay, please do not ping her
-            unnecessarily as it will result in a moderation action.
+            Pinging Rainych outside of Patreon exclusive channels is
+            prohibited. This is to prevent excess spam of pings for her.
+
+            Whilst pinging Rainych in Patreon exclusive channel is okay,
+            please do not ping her unnecessarily as it will result in a
+            moderation action.
 
         No Toxic Attitudes
             Trolling, hostility, slurs, immature, or derogatory behavior
@@ -382,69 +405,91 @@ TITLE I. DISCORD SERVER
             Disrespecting the Server Staff
 
         No Pornographic or NSFW Content
-            Dissemination of NSFW/Offensive content in any form is prohibited in all chats. This includes,
-            but is not limited to excessive gore/extreme violence, content related to self-harm or harming
+            Dissemination of NSFW/Offensive content in any form is prohibited
+            in all chats. This includes, but is not limited to excessive
+            gore/extreme violence, content related to self-harm or harming
             others, pornography, or excessively sexual content.
+
             This rule also applies to Discord profiles.
-            If you are unsure if your content breaks these guidelines, please privately ask a moderator to
-            review before posting it on the server.
+
+            If you are unsure if your content breaks these guidelines, please
+            privately ask a moderator to review before posting it on the
+            server.
             
         No Spamming
-            Spamming is considered an act of ill will towards the people on the server and will be dealt with
-            quickly.
-                Submission of memes or pictures that are repeated (not necessarily the same), that doesn't
-                instigate a real discussion, and/or those that benefit only the poster
-                Usage of copypasta
-                Repeatedly posting only emojis or words/statements all in caps
-                Repeatedly breaking sentences for a few words
-                Sending the same message in more than one channel for personal benefit
+            Spamming is considered an act of ill will towards the people on
+            the server and will be dealt with quickly.
+
+                - Submission of memes or pictures that are repeated (not
+                  necessarily the same), that doesn't instigate a real
+                  discussion, and/or those that benefit only the poster
+                - Usage of copypasta
+                - Repeatedly posting only emojis or words/statements all in
+                  caps
+                - Repeatedly breaking sentences for a few words
+                - Sending the same message in more than one channel for
+                  personal benefit
 
         Doxing
-            Posting private information of any member is strictly prohibited on the server. Encouraging or
-            participating in this activity will result in an immediate ban.
+            Posting private information of any member is strictly prohibited
+            on the server. Encouraging or participating in this activity will
+            result in an immediate ban.
 
         Advertisement
-            This includes other Discord servers, streams, videos, social media, etc. If you feel that there is
-            something you would like to post here that links to something that you own, please ask a
+            This includes other Discord servers, streams, videos, social
+            media, etc. If you feel that there is something you would like
+            to post here that links to something that you own, please ask a
             moderator or administrator first.
-            If you receive any form of advertising from members of this server, please report it to a server
-            staff member privately.
+            
+            If you receive any form of advertising from members of this
+            server, please report it to a server staff member privately.
 
         No Impersonation
             This includes impersonation even without malicious intent.
 
         Converse Only in English
-            English is the primary language of the server. However, you may chat in Indonesian and Malay
-            in their respective channel after assigning a role to yourself from #� ┃select-language.
+            English is the primary language of the server. However, you may
+            chat in Indonesian and Malay in their respective channel after
+            assigning a role to yourself from #� ┃select-language.
 
-        Anything not abiding by these is subject to removal at the Moderators' own discretion without
-        warning.
+        Anything not abiding by these is subject to removal at the Moderators'
+        own discretion without warning.
 
-        We also strictly abide by the Discord Community Guidelines, and Discord ToS.
+        We also strictly abide by the Discord Community Guidelines, and
+        Discord ToS.
 
-        Punishment for breaking the rules may range from a verbal warning up to and including a
-        permanent server ban. The type and severity of punishment will depend on the frequency and
-        severity with which a user breaks the rules of the server.
+        Punishment for breaking the rules may range from a verbal warning up
+        to and including a permanent server ban. The type and severity of
+        punishment will depend on the frequency and severity with which a
+        user breaks the rules of the server.
 
-        Users with questions or concerns about a moderation action taken against them or with a specific
-        member of the staff team should discuss it with one of the staff member's superiors privately.
-        This server is a drama-free zone and airing these grievances in public may result in additional
-        moderation action.
+        Users with questions or concerns about a moderation action taken
+        against them or with a specific member of the staff team should
+        discuss it with one of the staff member's superiors privately.
 
-        Gaius Cicereius#3705 will be our medium of moderation actions. Please be sure that you have the
-        messages enabled to receive from the server members, as anyone that cannot receive messages
-        from the Gaius bot may not be warned about moderation actions. The server staff is not held
-        responsible if any user has prevented themselves from receiving communications about their
-        infractions. The moderators and administrators of this server have the final authority in how the
-        rules are enforced. Any attempt to evade punishment dealt out by server staff will result in an
-        instant ban from the server.
+        This server is a drama-free zone and airing these grievances in
+        public may result in additional moderation action.
+
+        Gaius Cicereius#3705 will be our medium of moderation actions.
+        Please be sure that you have the messages enabled to receive
+        from the server members, as anyone that cannot receive messages
+        from the Gaius bot may not be warned about moderation actions. The
+        server staff is not held responsible if any user has prevented
+        themselves from receiving communications about their infractions.
+
+        The moderators and administrators of this server have the final
+        authority in how the rules are enforced. Any attempt to evade
+        punishment dealt out by server staff will result in an instant
+        ban from the server.
 
     § 1018. Gathering data using automated programs.
 
-        1018.1. By using the Rainychville services you agree that if you are not a moderator,
-        administrator, or in a position of power, trust, or authority, you will not, via the use
-        of any automated tool, service, or by use of human labor, attempt to make available on any
-        of your data storage devices, in any machine, human, or program-readable format any data on:
+        1018.1. By using the Rainychville services you agree that if you are
+        not a moderator, administrator, or in a position of power, trust, or
+        authority, you will not, via the use of any automated tool, service,
+        or by use of human labor, attempt to make available on any of your
+        data storage devices, in any machine, human, or program-readable
+        format any data on:
 
             a. user interactions in any channel of the server;
 
@@ -452,24 +497,28 @@ TITLE I. DISCORD SERVER
 
             c. and the gaming activities of members.
 
-        1018.2. With the exception of the Discord client, or any third-party tool endorsed for use by
-        Discord or members of the Rainychville Discord, you shall not use any automated tool to access
-        in any machine, human, or program-readable format any data defined in 1018.1.
+        1018.2. With the exception of the Discord client, or any third-party
+        tool endorsed for use by Discord or members of the Rainychville
+        Discord, you shall not use any automated tool to access in any
+        machine, human, or program-readable format any data defined in 1018.1.
 
     § 1019. Spelling of server's name.
 
-        1019.1. The server's name shall be spelled as 'Rainychville' with a lowercase 'v'.
+        1019.1. The server's name shall be spelled as 'Rainychville' with a
+        lowercase 'v'.
 
             SPELLING                 Acceptable?
 
             Rainychville             Yes
             RainychVille             No
 
-        1019.2. Unless in cases where Rainych Ran spells the name of the server differently in any highly
-        visible context such as an announcement, written statement or otherwise, the spelling rules put
+        1019.2. Unless in cases where Rainych Ran spells the name of the
+        server differently in any highly visible context such as an
+        announcement, written statement or otherwise, the spelling rules put
         forth in 1019.1 shall be abided to with no exception.
 
-        1019.3. Acceptable server abbreviations are listed in the following table.
+        1019.3. Acceptable server abbreviations are listed in the following
+        table.
 
                              Preferred         Acceptable
             Letters          Abbreviation      Abbreviation
@@ -478,173 +527,211 @@ TITLE I. DISCORD SERVER
             3                RVL                 N/A
             4                RVLE                N/A
 
-        1019.4. Abbreviations laid out in 1019.3 shall be abided to with no exception in the writing of
-        official Rainychville government documents. Any erroneous abbreviations in documents written before
-        the passage of this section of the TOS are considered grandfathered and exempt, but these erroneous
-        abbreviations should be replaced with approved ones whether possible.
+        1019.4. Abbreviations laid out in 1019.3 shall be abided to with no
+        exception in the writing of official Rainychville government
+        documents. Any erroneous abbreviations in documents written before
+        the passage of this section of the TOS are considered grandfathered
+        and exempt, but these erroneous abbreviations should be replaced
+        with approved ones whether possible.
 
-        1019.5. On any spelling tests administered in schools within the jurisdiction of Rainychville, any 
-        spellingof the server name that spell the 'v' as uppercase must	penalize the grade by no less than 
+        1019.5. On any spelling tests administered in schools within the
+        jurisdiction of Rainychville, any  spellingof the server name that
+        spell the 'v' as uppercase must	penalize the grade by no less than
         30% of the total points or other scoring system used by the school.
 
-        1019.6. Where possible, the following regular expression should be used to detect instances of the 
-        server's name:
+        1019.6. Where possible, the following regular expression should be
+        used to detect instances of the  server's name:
 
             Rainych(v|V)ille
 
-            where (v|V) is a capturing group to either match Rainychville or RainychVille.
+            where (v|V) is a capturing group to either match Rainychville or
+            RainychVille.
 
 TITLE II. SIMPING FOR RAINYCH
 
     § 2000. Appropriate conversation with Rainych.
 
-        2000.1. You are to refer to or otherwise greet or converse with Rainych in a way that is respectful,
-        kind, that is not in a manner that is obscene or frowned upon by Rainych, the Islamic god
-        commonly known as "Allah", or the general Muslim community at large, or in the case of
-        criticism, is not in a manner that is unconstructive, defamatory, or communicated with derogatory
-        intent, or be in a manner that can be construed as cyberbullying illegal under U.S laws.
+        2000.1. You are to refer to or otherwise greet or converse with
+        Rainych in a way that is respectful, kind, that is not in a manner
+        that is obscene or frowned upon by Rainych, the Islamic god commonly
+        known as "Allah", or the general Muslim community at large, or in
+        the case of criticism, is not in a manner that is unconstructive,
+        defamatory, or communicated with derogatory intent, or be in a manner
+        that can be construed as cyberbullying illegal under U.S laws.
 
-        2001.2. You must not violate any portion of this Act during conversation with Rainych.
+        2001.2. You must not violate any portion of this Act during
+        conversation with Rainych.
 
-        2001.3. You must converse with Rainych in a way that does not waste her time, does nor
-        negatively influence her, and does not hinder her capability to engage in the production of music.
+        2001.3. You must converse with Rainych in a way that does not waste
+        her time, does nor negatively influence her, and does not hinder her
+        capability to engage in the production of music.
 
-    § 2001. Fanboying/fangirling Rainych and general sasaeng treatment of Rainych.
+    § 2001. Fanboying/fangirling Rainych and general sasaeng treatment of
+            Rainych.
 
-        2001.1. Sasaeng meaning "private life" is a Korean term used to describe fans who are
-        obsessively involved in the private details of their favorite K-pop idol or other celebrity. In this
-        T&Cs document, it is used to describe obssesive behavior.
-        Due to the derogatory nature of "Sasaeng", the document shall instead use the neutral term
-        "Obsessive fan behaviour" or OFB. General aspects of sasaeng/OFB behavior include:
+        2001.1. Sasaeng meaning "private life" is a Korean term used to
+        describe fans who are obsessively involved in the private details
+        of their favorite K-pop idol or other celebrity. In this T&Cs
+        document, it is used to describe obssesive behavior. Due to the
+        derogatory nature of "Sasaeng", the document shall instead use
+        the neutral term "Obsessive fan behaviour" or OFB. General aspects
+        of sasaeng/OFB behavior include:
         
-             a. Attempting to attain the personally identifying information of Rainych, of which types of
-             information constituted as PII detailed in the list in § 1006.2 that has not been made
-             public by Rainych or is obscure to an extent where the Moderation Team would consider
-             it doxxing,
+            a. Attempting to attain the personally identifying information
+            of Rainych, of which types of information constituted as PII
+            detailed in the list in § 1006.2 that has not been made public
+            by Rainych or is obscure to an extent where the Moderation Team
+            would consider it doxxing,
 
-             b. Continually making comments regarding various aspects of Rainych Ran at a frequency
-             that can be construed as OFB, or are obscene or otherwise frowned upon by the normal
-             Rainych fanbase,
+            b. Continually making comments regarding various aspects of
+            Rainych Ran at a frequency that can be construed as OFB, or
+            are obscene or otherwise frowned upon by the normal Rainych
+            fanbase,
 
-             c. Attempting to remain physically close to Rainych by stalking her or performing actions
-             which violate § 1006,
+            c. Attempting to remain physically close to Rainych by stalking
+            her or performing actions which violate § 1006,
 
-             d. Continually making remarks or requests towards Rainych for marriage or similar actions
-             (refer to § 2008),
+            d. Continually making remarks or requests towards Rainych for
+            marriage or similar actions (refer to § 2008),
 
-             e. Performing actions that can be construed as the borderline-pathological form of Celebrity
-             Worship Syndrome such as:
+            e. Performing actions that can be construed as the
+            borderline-pathological form of Celebrity Worship Syndrome such as:
 
-                i. Licking toilets or general sanitation equipment (e.g sinks, toilets, shower head) that
-                Rainych has used,
+                i. Licking toilets or general sanitation equipment (e.g sinks,
+                toilets, shower head) that Rainych has used,
 
-                ii. Or any other behaviour that can be construed as a symptom of borderline-pathological
-                Celebrity Worship Syndrome.
+                ii. Or any other behaviour that can be construed as a symptom
+                of borderline-pathological Celebrity Worship Syndrome.
 
-        2001.2. You shall not exhibit OFB to an extent that may inflict physical or emotional harm to
-        Rainych, the general public, or the general Rainych fanbase at large. You may not attempt to
-        gather her personal information that she has not made public as defined in § 1006.
+        2001.2. You shall not exhibit OFB to an extent that may inflict
+        physical or emotional harm to Rainych, the general public, or the
+        general Rainych fanbase at large. You may not attempt to gather her
+        personal information that she has not made public as defined in
+        § 1006.
 
         Example of a § 2001.2 violation:
 
-            Sasaeng taxis are types of vehicles that aggressively pursue the motor transport vehicles of 
-            celebrities, often violating traffic laws. Recklessly driving to attend a future hypothetical 
-            Rainych concert has the risk of causing a car accident which may cause a loss of life to other 
-            people which constitutes harm to the general public.
+            Sasaeng taxis are types of vehicles that aggressively pursue the
+            motor transport vehicles of  celebrities, often violating traffic
+            laws. Recklessly driving to attend a future hypothetical  Rainych
+            concert has the risk of causing a car accident which may cause a
+            loss of life to other  people which constitutes harm to the
+            general public.
 
-        2001.3. If by any means you have the personal information of Rainych, you must make an effort
-        to forget such information. You must not share it on the Rainychville discord under any
-        circumstances. You also agree that if you post the information on sites outside Rainychville, the
-        moderators of that Site have the right to ban you as outlined in their Terms & Conditions, if any.
+        2001.3. If by any means you have the personal information of Rainych,
+        you must make an effort to forget such information. You must not
+        share it on the Rainychville discord under any circumstances. You
+        also agree that if you post the information on sites outside
+        Rainychville, the moderators of that Site have the right to ban you
+        as outlined in their Terms & Conditions, if any.
 
-        2001.4. If you exhibit OFB, you agree by using Rainychville that you will be solely responsible
-        for seeking out therapy service or psychological treatment to remove or prevent you from
-        exhibiting OFB. You have the right to ask Rainychville for help but it should not burden the
-        server excessively.
+        2001.4. If you exhibit OFB, you agree by using Rainychville that you
+        will be solely responsible for seeking out therapy service or
+        psychological treatment to remove or prevent you from exhibiting OFB.
+        You have the right to ask Rainychville for help but it should not
+        burden the server excessively.
 
     § 2002. Financial responsibility.
 
-        2002.1. We are not responsible for any financial crisis brought upon you should you spend
-        copious amounts of money on Rainych, such as purchasing Minister, purchasing merch in
-        excessive amounts, or making excessively large donations.
+        2002.1. We are not responsible for any financial crisis brought upon
+        you should you spend copious amounts of money on Rainych, such as
+        purchasing Minister, purchasing merch in excessive amounts, or making
+        excessively large donations.
 
-        2002.2. You shall not commit any financial crime to seek out additional funding to continue
-        donating or monetarily supporting Rainych Ran.
+        2002.2. You shall not commit any financial crime to seek out
+        additional funding to continue donating or monetarily supporting
+        Rainych Ran.
 
     § 2003. Worship of Rainych Ran.
 
-        2003.1. Under the freedom of religion, you retain any and all right to worship Rainych Ran as if
-        She was a divine goddess. You retain the right to build monuments and temples in honor of
-        Rainych Ran, if you have the necessary building permits.
+        2003.1. Under the freedom of religion, you retain any and all right to
+        worship Rainych Ran as if She was a divine goddess. You retain the
+        right to build monuments and temples in honor of Rainych Ran, if you
+        have the necessary building permits.
 
-        2003.2. We are not responsible if your worship of Rainych results in the application of several
-        divine punishments to you such as being possessed by Satan, being sent to hell or it's equivalent
-        in your religion, being thrown into a cage full of tigers that will actually maul you (based on a
-        true story), or other negative phenomena.
+        2003.2. We are not responsible if your worship of Rainych results in
+        the application of several divine punishments to you such as being
+        possessed by Satan, being sent to hell or it's equivalent in your
+        religion, being thrown into a cage full of tigers that will actually
+        maul you (based on a true story), or other negative phenomena.
 
         2003.3. You also agree that by worshipping Rainych, you will not:
 
-           a. engage in the sacrifice of humans which is illegal in most jurisdictions & countries;
+           a. engage in the sacrifice of humans which is illegal in most
+           jurisdictions & countries;
 
-           b . perform any ritual in a way that breaks the real-life laws of your jurisdiction;
+           b. perform any ritual in a way that breaks the real-life laws of
+           your jurisdiction;
 
-           c . exhibit OFB in a manner violating § 2001.2;
+           c. exhibit OFB in a manner violating § 2001.2;
 
-           d . inflict bodily or property harm unto any other person;
+           d. inflict bodily or property harm unto any other person;
 
            e. or break any law or statute.
 
-        2003.4. You also agree that if you choose to build a monument or temple or miscellaneous type of
-        religious building in honor of Rainych, that you and any affiliated third parties will be solely 
-        responsible for attaining the materials, labor, building permits, planning permissions, 
-        and other legal requirements.
+        2003.4. You also agree that if you choose to build a monument or
+        temple or miscellaneous type of religious building in honor of
+        Rainych, that you and any affiliated third parties will be solely
+        responsible for attaining the materials, labor, building permits,
+        planning permissions,  and other legal requirements.
 
     § 2004. Stan/simp behavior.
 
-         2004.1. You may stan Rainych if you so choose, but you must not violate the T&Cs while doing
-         so.
+        2004.1. You may stan Rainych if you so choose, but you must not
+        violate the T&Cs while doing so.
 
-         2004.2. Rainychville is not responsible for legal or bodily damage caused by such behaviour (e.g
-         driving off a bridge because Rainych didn't write back to you, or a loss of social status if your
-         classmates in high school (if you have any) find out that you are simping for Rainych, and
-         therefore any bodily damage (e.g getting beaten up by a bully).
+        2004.2. Rainychville is not responsible for legal or bodily damage
+        caused by such behaviour (e.g driving off a bridge because Rainych
+        didn't write back to you, or a loss of social status if your
+        classmates in high school (if you have any) find out that you are
+        simping for Rainych, and therefore any bodily damage (e.g getting
+        beaten up by a bully).
 
     § 2005. Patience minimum for Rainych entry into your voice
     channel.
 
-        2005.1. You must exhibit a degree of patience while awaiting Rainych entry into a voice chat.
+        2005.1. You must exhibit a degree of patience while awaiting Rainych
+        entry into a voice chat.
 
-        2005.2. In circumstances where Rainych is actively producing a new cover, you must wait until
-        Rainych either takes a break from producing said cover or finishes it and prepares it for release
-        before you can get Rainych to enter your VC.
+        2005.2. In circumstances where Rainych is actively producing a new
+        cover, you must wait until Rainych either takes a break from producing
+        said cover or finishes it and prepares it for release before you can
+        get Rainych to enter your VC.
 
-        2005.3. In the event that you squeal too loudly when Rainych enters, the Moderation Team
-        reserves the right to mute you or even deafen you if they want.
+        2005.3. In the event that you squeal too loudly when Rainych enters,
+        the Moderation Team reserves the right to mute you or even deafen you
+        if they want.
 
-        2005.4. Rainych is a Muslim. When her religion requires her to pray or perform any other
-        religious activity preventing her from entering into your voice channels, you must wait for
-        Rainych to complete said religious actions before you expect her to enter your voice chat.
+        2005.4. Rainych is a Muslim. When her religion requires her to pray
+        or perform any other religious activity preventing her from entering
+        into your voice channels, you must wait for Rainych to complete said
+        religious actions before you expect her to enter your voice chat.
 
     § 2006. Purchasing a rank on Rainych Ran's Patreon page.
 
-        2006.1. You must comply with the terms of service of Patreon and your payment processor if you
-        choose to purchase a rank on Rainych Ran's Patreon page.
+        2006.1. You must comply with the terms of service of Patreon and your
+        payment processor if you choose to purchase a rank on Rainych Ran's
+        Patreon page.
 
-        2006.2. You are advised not to neglect any other part of your life economically to pledge to
-        Rainych Ran, including but not limited to mortgages, car payments, house payments, insurance
-        payments, taxes, family, children, electric bill, water bill, internet bill, or any other service
-        essential to continued human survival.
+        2006.2. You are advised not to neglect any other part of your life
+        economically to pledge to Rainych Ran, including but not limited to
+        mortgages, car payments, house payments, insurance payments, taxes,
+        family, children, electric bill, water bill, internet bill, or any
+        other service essential to continued human survival.
 
-        2006.3. You must not pay for the rank in a manner that is fraudulent and you must not use money
-        illicitly earned and laundered through several means.
+        2006.3. You must not pay for the rank in a manner that is fraudulent
+        and you must not use money illicitly earned and laundered through
+        several means.
 
-        2006.4. Any money spent on Patreon ranks may or may not be refunded. This is entirely at the
-        collective discretion of your payment processor, the Moderation Team, Rainych, and Patreon.
+        2006.4. Any money spent on Patreon ranks may or may not be refunded.
+        This is entirely at the collective discretion of your payment
+        processor, the Moderation Team, Rainych, and Patreon.
 
-        2006.5. Rainych, as the supreme authority of the Rainychville Discord, reserves the right to bar
-        you permanently or temporarily from the purchase of a rank and if such restrictions are imposed
-        on you, you agree to comply with such and that you will make no attempt to evade or get around
-        this ban via any means.
+        2006.5. Rainych, as the supreme authority of the Rainychville Discord,
+        reserves the right to bar you permanently or temporarily from the
+        purchase of a rank and if such restrictions are imposed on you, you
+        agree to comply with such and that you will make no attempt to evade
+        or get around this ban via any means.
 
             ------------------------
             | Rank     | Price     |
@@ -657,129 +744,160 @@ TITLE II. SIMPING FOR RAINYCH
 
     § 2007. Trakteer patronage.
 
-        2007.1. All content on Trakteer is written only in Bahasa Indonesia. Trakteer shall serve as a
-        second way to acquire the Citizen and Warrior ranks aside from Patreon.
+        2007.1. All content on Trakteer is written only in Bahasa Indonesia.
+        Trakteer shall serve as a second way to acquire the Citizen and
+        Warrior ranks aside from Patreon.
 
-        2007.2. You must DM Spongy#0001 to request your roles when you have successfully paid for
-        any of these perks.
+        2007.2. You must DM Spongy#0001 to request your roles when you have
+        successfully paid for any of these perks.
         
-        2007.3. Rainych and the Moderation Team have the right, at anytime, to suspend permanently or
-        temporarily your ability or access to purchase these roles for any reason.
+        2007.3. Rainych and the Moderation Team have the right, at anytime,
+        to suspend permanently or temporarily your ability or access to
+        purchase these roles for any reason.
 
     § 2008. Requests to Rainych Ran for marriage.
 
-         2008.1. You must exercise caution in asking Rainych to marry you, jokingly. Any serious
-         attempts to marry Rainych may result in Moderation Actions or a loss of social status by being
-         accused of being "creepy".
+        2008.1. You must exercise caution in asking Rainych to marry you,
+        jokingly. Any serious attempts to marry Rainych may result in
+        Moderation Actions or a loss of social status by being accused of
+        being "creepy".
 
-         2008.2. You have been imbued with the knowledge that as of June 1, 2021, Rainych is single and
-         not engaged yet. You must not act on this knowledge in a way that violates this Law.
+        2008.2. You have been imbued with the knowledge that as of
+        June 1, 2021, Rainych is single and not engaged yet. You must not act
+        on this knowledge in a way that violates this Law.
          
     § 2009. Medical events caused by Rainych.
 
-        2009.1. Rainychville is not responsible for any bodily harm caused by Rainych acknowledging
-        you, such as your heartrate rising to dangerous levels when Rainych is typing in the public hall,
-        or passing out from the shock and awe of getting one of your YouTube comments hearted by
+        2009.1. Rainychville is not responsible for any bodily harm caused by
+        Rainych acknowledging you, such as your heartrate rising to dangerous
+        levels when Rainych is typing in the public hall, or passing out from
+        the shock and awe of getting one of your YouTube comments hearted by
         Rainych Ran.
 
-        2009.2. You or people closely associated to you will be solely responsible for seeking out medical
-        care in the event that a medical event occurs.
+        2009.2. You or people closely associated to you will be solely
+        responsible for seeking out medical care in the event that a medical
+        event occurs.
 
-        2009.3. If you experience any seizure or health problem while using Rainychville, immediately
-        log off but do not leave Rainychville and return only when the health problem has subsided.
-        Rainychville is not responsible for any loss of life stemming from negligence.
+        2009.3. If you experience any seizure or health problem while using
+        Rainychville, immediately log off but do not leave Rainychville and
+        return only when the health problem has subsided. Rainychville is
+        not responsible for any loss of life stemming from negligence.
   
-        2009.4. You are solely responsible for arranging claims with your insurance provider in the event
-        your medical bill reaches $25,000 for a simple cold or any Medical Event.
+        2009.4. You are solely responsible for arranging claims with your
+        insurance provider in the event your medical bill reaches $25,000
+        for a simple cold or any Medical Event.
 
     § 2010. Pokimane.
 
-        2010.1. You must ensure that all of your Pokimane-related activities will not conflict with the
-        interests and desires of Rainych, the Moderation Team, or the general Rainychville community at-large.
+        2010.1. You must ensure that all of your Pokimane-related activities 
+        will not conflict with the interests and desires of Rainych, the
+        Moderation Team, or the general Rainychville community at-large.
         
-        2010.2. You must disclose when you are ready, the reason why you keep on simping for
-        Pokimane.
+        2010.2. You must disclose when you are ready, the reason why you keep
+        on simping for Pokimane.
 
-        2010.3: In the event that you choose to spend the money you've been saving on Pokimane
-        donations instead of Rainychville Minister, you will be considered to have had commited a severe
-        financial crime.
+        2010.3: In the event that you choose to spend the money you've been
+        saving on Pokimane donations instead of Rainychville Minister, you
+        will be considered to have had commited a severe financial crime.
 
     § 2011. Twitch streamers.
 
-        2011.1. Twitch streamers unaffiliated with the general Rainychville community at-large shall not
-        be donated to if donation money would prevent the acquisition of a month of Rainychville Minister or
-        otherwise prevent Rainych from earning any money and therefore impeding her capability to produce
-        more covers.
+        2011.1. Twitch streamers unaffiliated with the general Rainychville
+        community at-large shall not be donated to if donation money would
+        prevent the acquisition of a month of Rainychville Minister or
+        otherwise prevent Rainych from earning any money and therefore
+        impeding her capability to produce more covers.
 
-        2011.2. Unless an unanimous vote is recieved from the Rainychville council and the entire community 
-        in a referendum where offender is not allowed to vote, the Rainychville government shall have the authority
-        to inspect the bank accounts or any other method of storing money used by the offender to ensure compliance
-        with § 2011 and that money meant for donation to Rainych is not being redirected to any other streamer, where
-        the offender is defined as any person who is suspected of rerouting donation money meant for Rainych to any 
-        Twitch streamer unaffiliated with the general Rainychville community at-large.
+        2011.2. Unless an unanimous vote is recieved from the Rainychville
+        council and the entire community  in a referendum where offender is
+        not allowed to vote, the Rainychville government shall have the
+        authority to inspect the bank accounts or any other method of
+        storing money used by the offender to ensure compliance with § 2011
+        and that money meant for donation to Rainych is not being redirected
+        to any other streamer, where the offender is defined as any person
+        who is suspected of rerouting donation money meant for Rainych to any
+        Twitch streamer unaffiliated with the general Rainychville community
+        at-large.
 
-        2011.3. If it is proven, by circumstancial evidence, confession, or other means that are permissible and do
-        not violate the constitution or other similar legal document of the suspect's country that provision § 2011.1
-        has been violated, the offender responsible for such a violation may be subject to any punishment at the
-        discretion of the Rainychville Council or any other governmental authority with similar powers.
+        2011.3. If it is proven, by circumstancial evidence, confession, or
+        other means that are permissible and do not violate the constitution
+        or other similar legal document of the suspect's country that
+        provision § 2011.1 has been violated, the offender responsible for
+        such a violation may be subject to any punishment at the discretion
+        of the Rainychville Council or any other governmental authority with
+        similar powers.
 
     § 2012. Rainych-related paraphernalia.
 
-        2012.1. Under no circumstances shall anyone within the applicable jurisdiction of Rainychville, in any shape
-        or form, via any method, apply, make visible, manufacture, modify, distribute, or otherwise propagate any
-        "Rainych body pillow" or RBP, where an RBP is defined as any pillow wherein any image of Rainych Ran or
-        any similar image that implies that the person depicted is Rainych, is embossed, painted, applied, or by any
-        other means permanently, or for any period of time sufficient enough, affixed to a "pillow".
+        2012.1. Under no circumstances shall anyone within the applicable
+        jurisdiction of Rainychville, in any shape or form, via any method,
+        apply, make visible, manufacture, modify, distribute, or otherwise
+        propagate any "Rainych body pillow" or RBP, where an RBP is defined
+        as any pillow wherein any image of Rainych Ran or any similar image
+        that implies that the person depicted is Rainych, is embossed,
+        painted, applied, or by any other means permanently, or for any
+        period of time sufficient enough, affixed to a "pillow".
 
-        2012.2. Any Rainych symbol, such as the logos, the YouTube channel banner, or any other art or visuals produced
-        by Rainych may be affixed onto any item, proven it is appropriate, that the item will not be used to commit
-        a crime of any kind, and that it will not be used to perform or otherwise expedite or aid the process of
-        performing any crime or undesirable action, including but not limited to: sacrifice of any human or 
-        sapient/sentient lifeform to any percieved entity worshipped or revered in manners similar to cults, 
-        religions, or new religious movements, murder of any kind, vandalism of buildings, streets, walls, vehicles or 
-        similar constructs, spamming of forums, comment sections, or any online community with images of Rainych.
+        2012.2. Any Rainych symbol, such as the logos, the YouTube channel
+        banner, or any other art or visuals produced by Rainych may be affixed
+        onto any item, proven it is appropriate, that the item will not be
+        used to commit a crime of any kind, and that it will not be used to
+        perform or otherwise expedite or aid the process of performing any
+        crime or undesirable action, including but not limited to: sacrifice
+        of any human or  sapient/sentient lifeform to any percieved entity
+        worshipped or revered in manners similar to cults,  religions, or new
+        religious movements, murder of any kind, vandalism of buildings,
+        streets, walls, vehicles or  similar constructs, spamming of forums,
+        comment sections, or any online community with images of Rainych.
 
 TITLE III. MISCELLANEOUS
 
     § 3000. Jurisdiction
 
-        3000.1. The Jurisdiction where these laws apply is the Rainychville Discord Server and the
-        collective Rainych Psychosphere covering all Rainych-related brain activity such as thoughts,
-        fantasies, ideas, and dreams, and Rainych Ran's tangible IRL assets such as her house, car (if
-        any), Mac computer and intangible assets such as her mind, collectively termed the "Rainych Space".
-        However:
+        3000.1. The Jurisdiction where these laws apply is the Rainychville
+        Discord Server and the collective Rainych Psychosphere covering all
+        Rainych-related brain activity such as thoughts, fantasies, ideas,
+        and dreams, and Rainych Ran's tangible IRL assets such as her house,
+        car (if any), Mac computer and intangible assets such as her mind,
+        collectively termed the "Rainych Space". However:
 
-            i. Rainych Ran’s house, where ever in Indonesia it may be, is under the jurisdiction of the
-            IRL Indonesian government. In the event any of these provisions conflict with Indonesian
-            law, the Indonesian law will take precedent.
+            i. Rainych Ran’s house, where ever in Indonesia it may be, is
+            under the jurisdiction of the IRL Indonesian government. In the
+            event any of these provisions conflict with Indonesian law, the
+            Indonesian law will take precedent.
             
-            ii. Rainych Ran's house falls under the Rainych Space and is a legal grey area wirh respect to
-            this law, since there is opportunity for these laws to conflict.
+            ii. Rainych Ran's house falls under the Rainych Space and is a
+            legal grey area wirh respect to this law, since there is
+            opportunity for these laws to conflict.
 
-            iii. Rainych, as the owner of her house, has the right to render this law unenforceable in her
-            house at any time because she said so.
+            iii. Rainych, as the owner of her house, has the right to render
+            this law unenforceable in her house at any time because she said
+            so.
 
-        3000.2. You are solely responsible for any criminal charges you may incur by trying to enforce these
-        guidelines outside of the Rainych Space.
+        3000.2. You are solely responsible for any criminal charges you may
+        incur by trying to enforce these guidelines outside of the Rainych
+        Space.
 
     § 3001. Use of the ":pepeHmmCoffee:" emoji.
     
-        3001.1. The pepeHmmCoffee emoji depicts a Pepe character holding a cup
-        of coffee. You are obliged but not mandated to react to any posting of this
-        Terms and Conditions document with the aforementioned emoji.
+        3001.1. The pepeHmmCoffee emoji depicts a Pepe character holding a
+        cup of coffee. You are obliged but not mandated to react to any
+        posting of this Terms and Conditions document with the aforementioned
+        emoji.
 
-        3001.2. In the event that you attain Discord Nitro, you must use this emoji
-        on other servers in copious ammounts while making sure to remain in
-        compliance with the server's rules, community guidelines, and the
+        3001.2. In the event that you attain Discord Nitro, you must use this
+        emoji on other servers in copious ammounts while making sure to remain
+        in compliance with the server's rules, community guidelines, and the
         Electronic Code of Internet Regulations.
 
     § 3002. Distribution of this document.
 
-        3002.1. You are encouraged to link to this document or upload it in PDF form. If this document is
-        revised, you must link to the latest edition of this document.
+        3002.1. You are encouraged to link to this document or upload it in
+        PDF form. If this document is revised, you must link to the latest
+        edition of this document.
 
-        3002.2. You must credit RandomFan#3511 as being the sole author of the document if you ever
-        link to this.
+        3002.2. You must credit RandomFan#3511 as being the sole author of
+        the document if you ever link to this.
 
     § 3003. Rainych Ran's salary.
 
@@ -799,87 +917,103 @@ TITLE III. MISCELLANEOUS
 
     § 3004. Lyrical content.
 
-        3004.1. Most of the lyrics sang by Rainych Ran have been "cleaned" to remove profanities and
-        sexually suggestive content. Rainychville makes no guarantee that the lyrics have been censored
-        properly to remove profanities.
+        3004.1. Most of the lyrics sang by Rainych Ran have been "cleaned"
+        to remove profanities and sexually suggestive content. Rainychville
+        makes no guarantee that the lyrics have been censored properly to
+        remove profanities.
 
-        3004.2. In the event that you allow your kids or minors under your legal parental custody to
-        consume or otherwise enjoy Rainych music, you are solely responsible for mitigating any
-        negative influence brought upon by potentially unnoticed inappropriate content within the lyrics.
+        3004.2. In the event that you allow your kids or minors under your
+        legal parental custody to consume or otherwise enjoy Rainych music,
+        you are solely responsible for mitigating any negative influence
+        brought upon by potentially unnoticed inappropriate content within
+        the lyrics.
 
     § 3005. Rainych symbolism.
 
         - Seal inapplicabe due to being a .txt -
 
-        3005.1. The pink seal on this page is the Rainychville Resident Badge. A description of the seal is as follows:
+        3005.1. The pink seal on this page is the Rainychville Resident
+        Badge. A description of the seal is as follows:
 
-            A pink circular seal with the text "RAINYCHVILLE" written on top and "RESIDENTS" written at
-            the bottom. The central focal point of the image is an anime depiction of Rainych. This anime-style
-            depiction is described as a female with purple hair and a black ribbon tied in a manner consistent
-            with shoelaces and on top of the pink hair a cat with a cyan-green collar, with two eyes whose
-            colors are similar to the aforementioned cat, wearing a yellow shirt and cyan-green shorts, sitting
-            alongside 2 white pillows with two additional cats, one leaning on the female's chest and one
-            depicted standjng next to the female's left foot (from her perspective) and below the anime depiction
-            the inscription "RV" which stands for Rainychville.
+            A pink circular seal with the text "RAINYCHVILLE" written on top
+            and "RESIDENTS" written at the bottom. The central focal point of
+            the image is an anime depiction of Rainych. This anime-style
+            depiction is described as a female with purple hair and a black
+            ribbon tied in a manner consistent with shoelaces and on top of
+            the pink hair a cat with a cyan-green collar, with two eyes whose
+            colors are similar to the aforementioned cat, wearing a yellow
+            shirt and cyan-green shorts, sitting alongside 2 white pillows
+            with two additional cats, one leaning on the female's chest and
+            one depicted standjng next to the female's left foot (from her
+            perspective) and below the anime depiction the inscription "RV"
+            which stands for Rainychville.
 
-        3005.2. The Rainychville Resident Badge can only be used for the sole purpose of representing
-        Rainychville and it's Residents (Members). Usage of the seal for purposes completely unlinked to
-        Rainychville or Rainych shall not be allowed.
+        3005.2. The Rainychville Resident Badge can only be used for the sole
+        purpose of representing Rainychville and it's Residents (Members).
+        Usage of the seal for purposes completely unlinked to Rainychville or
+        Rainych shall not be allowed.
 
     § 3006. Blasting Rainych music out loud in your neighbourhood.
 
-        3006.1. Should you choose to play any music created by Rainych in your neighbourhood at high
-        volume, you must comply with all the noise laws imposed in your country or jurisdiction.
+        3006.1. Should you choose to play any music created by Rainych in
+        your neighbourhood at high volume, you must comply with all the noise
+        laws imposed in your country or jurisdiction.
 
-        3006.2. Rainychville is not responsible for any punishments incurred from breaking noise laws
-        while blasting Rainych music out loud.
+        3006.2. Rainychville is not responsible for any punishments incurred
+        from breaking noise laws while blasting Rainych music out loud.
 
     § 3007. Treatment of Rainychville Ministers.
 
-        3007.1. Rainychville ministers are people who have pledged USD 20 monthly to Rainych and
-        therefore recieve good priviliges from Rainych and have light-red role colors in the Discord
-        Server.
+        3007.1. Rainychville ministers are people who have pledged USD 20
+        monthly to Rainych and therefore recieve good priviliges from Rainych
+        and have light-red role colors in the Discord Server.
 
-        3007.2. You must not disrespect Rainychville Ministers or attempt to bribe them or cause them to
-        commit any violation of these terms and conditions.
+        3007.2. You must not disrespect Rainychville Ministers or attempt to
+        bribe them or cause them to commit any violation of these terms and
+        conditions.
 
     § 3008. Rainych in SCP-3008.
 
-        3008.1. SCP-3008 is an IKEA branch in an unknown location contained by the SCP Foundation.
-        SCP-3008-1 is the interior of the IKEA branch that spans an infinite length, width, and
-        uncountably high height, if any, collectively defined as "SCP-3008".
+        3008.1. SCP-3008 is an IKEA branch in an unknown location contained
+        by the SCP Foundation. SCP-3008-1 is the interior of the IKEA branch
+        that spans an infinite length, width, and uncountably high height,
+        if any, collectively defined as "SCP-3008".
 
-        3008.2. You agree that to the fullest extent permissible by your moral, religious, practical beliefs
-        and the laws of your country/jurisdiction/administrative division you will perform any action
-        possible to prevent Rainych from entering SCP-3008-1 intentionally or unintentionally,
-        knowingly.
+        3008.2. You agree that to the fullest extent permissible by your
+        moral, religious, practical beliefs and the laws of your
+        country/jurisdiction/administrative division you will perform any
+        action possible to prevent Rainych from entering SCP-3008-1
+        intentionally or unintentionally, knowingly.
 
     § 3009. Commenting on livestreams.
 
-        3009.1. All comments on Rainych livestreams must be respectful at all times, and must not
-        violate any clause or provision of the TOS.
+        3009.1. All comments on Rainych livestreams must be respectful at all
+        times, and must not violate any clause or provision of the TOS.
 
-        3009.2. If chatting on YouTube at any time, blue wrench users (moderators) shall have the
-        right to erase your comment at any time and ban you from commenting any further.
+        3009.2. If chatting on YouTube at any time, blue wrench users
+        (moderators) shall have the right to erase your comment at any time
+        and ban you from commenting any further.
 
     § 3010. Mifflin County Rainychville Airport
 
-        3010.1. The Mifflin County Rainychville Airport (KRVL) is located in Pennsylvania. It’s sole
-        6/24 runway is approximately 5,000 ft long.
+        3010.1. The Mifflin County Rainychville Airport (KRVL) is located in
+        Pennsylvania. It’s sole 6/24 runway is approximately 5,000 ft long.
 
-        3010.2. You agree that you will deliver a photo of Rainych Ran to this airport if you ever come
-        into possession of a general aviation aircraft with the range to reach KRVL.
+        3010.2. You agree that you will deliver a photo of Rainych Ran to
+        this airport if you ever come into possession of a general aviation
+        aircraft with the range to reach KRVL.
     
     § 3011. Official currency of Rainychville.
 
-        3011.1. Without exception, financial institutions operating within the jurisdiction of the
-        Rainychville Government shall accept Months of Rainychville Minister (MRM) as a legitimate
-        currency, where 1 MRM is defined as being worth 20 United States dollars relative to 2021 C.E
-        inflation rates.
+        3011.1. Without exception, financial institutions operating within
+        the jurisdiction of the Rainychville Government shall accept Months
+        of Rainychville Minister (MRM) as a legitimate currency, where 1 MRM
+        is defined as being worth 20 United States dollars relative to 2021
+        C.E inflation rates.
 
-        3011.2. Should the price of Minister change, the Rainychville Central Bank shall move to redefine the
-        currency in an expeditive and quick manner to prevent the complete collapse of the Rainychville
-        economy.
+        3011.2. Should the price of Minister change, the Rainychville Central
+        Bank shall move to redefine the currency in an expeditive and quick
+        manner to prevent the complete collapse of the Rainychville economy.
 
 ======================================================================================================
 End of TOS
