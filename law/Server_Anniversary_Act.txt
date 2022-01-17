@@ -1,61 +1,46 @@
-==========  Provided by RandomFan#3511 Rainychville Law Services* ==========
-
-    Rainychville Government
-    Server Anniversary Act
-
-  | Supplementary documentation |
-  | to the Rainychville Terms & |
-  | Conditions                  |
-
- =-=-= Index Information =-=-=
- ECIR 12.1.355.6 "Server Anniversary Act"
+[From RandomFan#3511 Rainychville Law Services]
+[ECIR 12.1.355.6]
 
 
-    I.   Preamble
+-----------------------------------------------------------------------------
 
-        This act shall define a new Public Holiday within the
+            Rainychville Government
+
+            September 25, 2021 CE
+
+            Server Anniversary Act
+
+                AN ACT
+
+        To define a new Public Holiday within the
         jurisdiction of the Rainych Space called "Rainychville Day"
         which shall take place every Gregorian calendar year
         on the Gregorian date of September 25.
 
-    II.  Public Holiday Requirements
+-----------------------------------------------------------------------------
 
-        2001. On September 25, each Gregorian calendar year,
-              reasonable effort must be made by the
-              moderation staff of the Server to ensure that;
+SEC 1. SHORT TITLE.
+    This act may be cited as the Server Anniversary Act.
+SEC 2. Public Holiday Requirements
+    (1) On September 25, each Gregorian calendar year, reasonable effort must
+     be made by the moderation staff of the Server to ensure that;
+        (1) The server's culture, heritage, and intangible works are
+         celebrated, preserved, and looked back on;
+        (2) There is a safe environment to celebrate the Anniversary and
+         related events by ensuring the complete non-presence of persons
+         considered to pose a serious threat to the Server;
+        (3) Rainych music is played at a volume no lower than 70
+         decibels (dB), in at least one (1) location anywhere on Earth or any
+         other inhabited location by humans outside of Earth (e.g the
+         International Space Station) where:
+            (1) there is an atmosphere that can serve as a medium for sound
+             waves to pass into people's ears;
+            (2) the playing of said music is permissible by noise-related
+             regulations, the collective consensus of nearby residents, the
+             wisdom of Rainych herself, or any combination of the two.
+    (2) A suitable index of all Singing Contest submissions submitted during a
+     Holiday Period if applicable shall be drafted by any competent third
+     party.
+    (3) In addition, the Rainychville Terms of Service must be enforced
+     alongside the Server Anniversary Act.
 
-                a. The server's culture, heritage, and
-                   intangible works are celebrated,
-                   preserved, and looked back on;
-                b. There is a safe environment to
-                   celebrate the Anniversary and related
-                   events by ensuring the complete non-presence
-                   of persons considered to pose a serious threat
-                   to the Server;
-
-                c. Rainych music is played at a volume no lower
-                   than 70 decibels (dB), in at least one (1)
-                   location anywhere on Earth or any other
-                   inhabited location by humans outside
-                   of Earth (e.g the International Space Station)
-                   where:
-                     i. there is an atmosphere that can serve
-                        as a medium for sound waves to pass into
-                        people's ears;
-
-                     ii. the playing of said music is permissible
-                         by noise-related regulations, the
-                         collective consensus of nearby residents,
-                         the wisdom of Rainych herself, or any
-                         combination of the two.
-
-        2002. A suitable index of all Singing Contest submissions
-              submitted during a Holiday Period if applicable
-              shall be drafted by any competent third party.
-
-        2003. In addition, the Rainychville Terms of Service must
-              be enforced alongside the Server Anniversary Act.
-
-*Fictional document for the purposes of parody.
- Not legal advice.
- Not legally binding to #rules-and-guidelines.
