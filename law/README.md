@@ -13,6 +13,7 @@ of the Rainychville TOS can be denoted as `12.1.355.1/1.1003`,
 where:
 
 - `12.1.355.` - where all Rainychville law numbers start.
+[More info](/guide/ecir.md)
 - `1` - law number.
 - `/` - delimiter to specify section number. This symbol MUST
 be a forward slash.
