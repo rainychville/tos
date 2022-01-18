@@ -38,9 +38,17 @@ SEC 2. PUBLIC HOLIDAY REQUIREMENTS
             (2) the playing of said music is permissible by noise-related
              regulations, the collective consensus of nearby residents, the
              wisdom of Rainych herself, or any combination of the two.
-    (2) A suitable index of all Singing Contest submissions submitted during a
-     Holiday Period if applicable shall be drafted by any competent third
-     party.
-    (3) In addition, the Rainychville Terms of Service must be enforced
-     alongside the Server Anniversary Act.
-
+SEC 3. SINGING CONTEST.
+    (1) Shall the moderators of Rainychville choose to host a "singing
+     contest", where participants must submit recordings of themselves
+     performing a cover of a song, the moderators or relevant event
+     organization staff shall:
+        (1) if necessary, cite the provisions of the Rainychville Talents Act
+         as guidelines or provide a "plain text" or readable summary;
+        (2) archive and make accessible to Rainychville members recordings of
+         all submissions:
+            (1) in file formats that are accessible; and
+            (2) with no encryption; and
+            (3) without any digital rights management technology which may
+             restrict the distribution, modification, or playback of the
+             musical contents of the file.
