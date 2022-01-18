@@ -39,3 +39,24 @@ specified `/RainychvilleTOS.txt`, it is specifying
 - `format` - Format of law. Most laws are plaintext laws, since HTML is too
   complicated, and Microsoft Word's `.docx` is a proprietary file format and
   therefore undesired.
+
+
+## Scripts
+
+### generate_html_law.py
+
+Generate HTML documents containing the full text of Rainychville law so you
+can read them in your browser. (You can read them as plaintext, but HTML looks
+better.)
+
+You can alter how the program runs: try running it with the `--help` (or `-h`
+for short) flag.
+
+It is a terminal application, meaning it needs to be run from the terminal.
+
+#### How to open the terminal
+- Windows: Look for the `Command Prompt`.
+- Mac: `Cmd`+`Space`, then type `Terminal.app`, then open it.
+- GNU/Linux: Find your desktop environment's terminal app.
+  - Ubuntu (GNOME): Terminal
+  - KDE: Konsole
