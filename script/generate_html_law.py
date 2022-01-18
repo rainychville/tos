@@ -91,11 +91,7 @@ def main(args):
     if out_folder in os.listdir():
         print(
             tw.dedent(f"""
-        ERROR: "{out_folder}" directory already exists.
-        """)
-        )
-
-        exit(1)
+        Warning: "{out_folder}" directory already exists."""))
 
     law_json_path = "laws.json"
 
@@ -129,8 +125,15 @@ def generate_laws(law_json_path, out_folder):
             filename = dirclean(
                 f"{out_folder}/{lawname.replace(' ','_')}.html")
 
+            mode = "x"
+
+            if os.path.exists(filename):
+                mode = "w"
+
+                print(f"Warning: file {os.path.abspath(filename)} already exists, overwriting!")
+
             with open(
-                filename, "x",
+                filename, mode,
                 encoding='UTF-8'
             ) as htmlfile:
                 htmlfile.write(law_html(lawname, lawtxt))
