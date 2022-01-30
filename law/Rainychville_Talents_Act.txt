@@ -145,8 +145,9 @@ SEC 7. TALENT-SPECIFIC GUIDELINES.
 SEC 8. ACCESSIBLE FILE FORMATS.
     (1) File formats for any digital copy of a talent may be a Recommended
      Storage Format defined by the United States Library of Congress.
-    (2) Any file format chosen by the US LOC may be overridden by any
-     Rainychville Government as a standard.
+    (2) The Rainychville Government shall have the authority to override
+     any file format chosen by the US Library of Congress as a Recommended
+     Storage Format with it's own standards or preferences.
     (3) Judges shall be permitted to use conversion tools to convert
      submissions provided in non-accessible file formats to accessible
      formats, and review the submission in their copy of the material in
