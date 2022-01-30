@@ -12,14 +12,14 @@ import webbrowser as wb
 
 def law_html(law_name, law_text):
     """Return a HTML document containing full-text of a law."""
-    html_js = tw.dedent("""
-           window.onload=main();function main(){console.log("Hello there!");\
-           console.log("Rainychville: https://discord.gg/rainychville");}""")
-    html_css = tw.dedent("""
-           body{background-color: black;} .law {margin: 0px 400px 0px 400px;\
-           background-color: rgb(255, 228, 156);color: black;padding: 10px;\
-           outline: solid;} .left-notice{position:fixed;padding:10px;\
-           background-color: rgb(187, 187, 187);outline: solid;}""")
+    html_js = tw.dedent(
+           'window.onload=main();function main(){console.log("Hello there!");'
+          +'console.log("Rainychville: https://discord.gg/rainychville");}')
+    html_css = tw.dedent(
+           "body{background-color: black;} .law {margin: 0px 400px 0px 400px;"
+           +"background-color: rgb(255, 228, 156);color: black;padding: 10px;"
+           +"outline: solid;} .left-notice{position:fixed;padding:10px;"
+           +"background-color: rgb(187, 187, 187);outline: solid;}")
     html = (
     """
     <!DOCTYPE html>
