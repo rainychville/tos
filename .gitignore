@@ -5,3 +5,8 @@
 !.gitignore
 !.gitkeep
 !.git*
+
+# Generated HTML files (for those who want to
+# read the laws in their browser)
+generated_html
+generated_html[_-]*
