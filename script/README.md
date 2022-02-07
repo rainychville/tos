@@ -55,7 +55,9 @@ for short) flag.
 It is a terminal application, meaning it needs to be run from the terminal.
 
 #### How to open the terminal
-- Windows: Look for the `Command Prompt`.
+- Windows: Look for the `Command Prompt`. You should use the PowerShell
+  instead as it has more features than the Command Prompt, if it is
+  installed.
 - Mac: `Cmd`+`Space`, then type `Terminal.app`, then open it.
 - GNU/Linux: Find your desktop environment's terminal app.
   - Ubuntu (GNOME): Terminal
