@@ -52,3 +52,9 @@ SEC 3. SINGING CONTEST.
             (3) without any digital rights management technology which may
              restrict the distribution, modification, or playback of the
              musical contents of the file.
+    (2) The provisions of the Rainychville Talents Act, if they do not
+     conflict with this law, shall apply to all singing contest submissions.
+    (3) Download URLs of all singing contest submissions, if the expected
+     form of submission is via digital means, shall be made gratis and
+     therefore available to the public, where it is feasible to host such
+     collection of URLS.
