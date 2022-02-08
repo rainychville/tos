@@ -63,7 +63,9 @@ SEC 5. CALENDARS.
 SEC 6. TAXATION.
     (1) No sentient lifeform shall be entitled to tax deductions or a
      reduction in tax rate for any donation made to a religious organization.
-
+SEC 7. BANS.
+    (1) Makarot shall not be permitted to enter Rainychville under any
+     circumstances.
 
 -------------------------------------------------------------------------------
 [1] The word "lord" in religious contexts is intentionally lower-cased in this
