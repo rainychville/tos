@@ -40,5 +40,12 @@
         "status": "active",
         "format": "plaintext",
         "id": "12.1.355.9"
+    },
+    {
+        "name": "Rainychville Crocodile Protection Act",
+        "path": "law/Rainychville_Crocodile_Protection_Act.txt",
+        "status": "draft",
+        "format": "plaintext",
+        "id": "12.1.355.11"
     }
 ]
