@@ -40,5 +40,12 @@
         "status": "active",
         "format": "plaintext",
         "id": "12.1.355.9"
+    },
+    {
+        "name": "Anti-Makarot Act",
+        "path": "law/Anti_Makarot_Act.txt",
+        "status": "active",
+        "format": "plaintext",
+        "id": "12.1.355.10"
     }
 ]
