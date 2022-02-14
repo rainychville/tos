@@ -1,31 +1,13 @@
 = Log4Shell Prevention Act
 :toc:
+:sectnums: |,all|
 
-
-
-== Full text
-
-[.text-center]
-[discrete]
-==== Rainychville Government
-
-[.text-center]
-[discrete]
-=== Log4Shell Prevention Act
-
-[.text-center]
 *AN ACT* to prevent the exploitation of the "Log4Shell" vulnerability in the Java library known as Log4J.
 
-[.text-center]
-*Law code*: _ECIR 12.1.355.8_
-
-
-
-
-=== SEC 1. SHORT TITLE.
+== SHORT TITLE.
 This act may be cited as the ``Log4Shell Prevention Act``.
 
-=== SEC 2. DEFINITIONS.
+== DEFINITIONS.
 [horizontal]
 . *Java* as a programming language, wherein a program to print out
 "Hello World" may be defined as:
@@ -75,9 +57,11 @@ where such program is placed in a file named Main.java;
 . *Sensitive data* as any data, machine-readable, human-readable, or
   program-readable, that details any sensitive information, where
   such sensitive information may include:
+["arabic"]
 .. personal information, as defined by section 1006, clause 2 of
    the Rainychville TOS;
 .. government or state secrets, such as:
+["arabic"]
 ... information on the locations of silos or facilities
     that support the use of weapons of mass destruction
     such as nukes, hydrogen bombs, death stars;
@@ -97,7 +81,7 @@ where such program is placed in a file named Main.java;
  key may be used for authorization, or authentication; and
 .. configuration settings for programs which operate in the shell.
 
-=== SEC 3. FAILURE TO PATCH LOG4J.
+== FAILURE TO PATCH LOG4J.
 . Any organization that fails to protect personal or sensitive data,
 by deliberate failure to patch the Log4Shell exploit, or prevent it's
 exploitation via other means such as alteration of environment
@@ -105,6 +89,7 @@ variables or preventing LDAP lookups, shall be criminally liable
 for the breach of said data, and any other Rainychville law broken
 by the leakage of said data. Aforementioned organizations covered
 include but are not limited to:
+["arabic"]
 .. Private or public companies;
 .. The Rainychville Government itself; and
 .. Individuals who operate or control services that
@@ -123,7 +108,7 @@ such organization may also alter their environment or it's
 variables, or their copy of Log4J itself to prevent the exploitation
 of Log4Shell.
 
-=== SEC 4. EXPLOITATION OF LOG4SHELL.
+== EXPLOITATION OF LOG4SHELL.
 . The exploitation of the Log4Shell exploit shall be considered to be
 a method of hacking a computer, or networks of computers, or part of
 the act of hacking where the exploitation of such is defined as the
@@ -141,7 +126,7 @@ exploit, where it can be reliably proven in court, shall be permanently
 banned from the Rainychville Discord server, without the ability to
 appeal such a ban.
 
-=== SEC 5. GOVERNMENT PATCHING OF LOG4SHELL.
+== GOVERNMENT PATCHING OF LOG4SHELL.
 . The Rainychville Government itself must make reasonable efforts to
 patch the Log4Shell vulnerability in all programs that they operate or
 control, where such programs may be wholly written in Java, or at the
@@ -177,10 +162,10 @@ shall be discouraged from utilizing the Log4J logging library to
 prevent vulnerabilities or the exploitation of Log4Shell. These
 programs shall instead use alternative Java logging libraries.
 
-=== SEC 6. IMPORT OF LOG4SHELL-AFFECTED SOFTWARE.
+== IMPORT OF LOG4SHELL-AFFECTED SOFTWARE.
 . The transfer of software affected by Log4Shell via a physical medium
 including but not limited to:
-
+["arabic"]
 .. hard disk drives or solid state drives, wherein programs
 which may or may not be affected by Log4Shell are stored, and
 mailed or physically transported to another server or a user's
@@ -218,3 +203,7 @@ of software.
 
 LEGISLATIVE HISTORY: Please review the commit logs of the Git repository that
 this law document is stored in.
+
+***
+
+ECIR 12.1.355.8
