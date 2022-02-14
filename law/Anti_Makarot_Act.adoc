@@ -1,11 +1,11 @@
 = Anti-Makarot Act
+:sectnums: |,all|
 :toc:
 
 [.text-center]
 _From RandomFan#3511 Rainychville Law Services_
 
 
-== Full text
 
 [.text-center]
 [discrete]
@@ -13,7 +13,7 @@ _From RandomFan#3511 Rainychville Law Services_
 
 [.text-center]
 [discrete]
-=== Anti-Makarot Act
+= Anti-Makarot Act
 
 [.text-center]
 *AN ACT* to mitigae the effects of Makarot's continued posting of religious material, sometimes racist or discriminatory on the Rainychville Discord.
@@ -24,23 +24,23 @@ _From RandomFan#3511 Rainychville Law Services_
 ***
 
 
-=== SEC 1. SHORT TITLE.
+== SHORT TITLE.
 . This act may be cited as the Anti-Makarot Act.
 
-=== SEC 2. DEFINITIONS.
+== DEFINITIONS.
 Makarot:: as a member of the Rainychville Discord server.
 
-=== SEC 3. EXCEPTIONS.
+== EXCEPTIONS.
 . To the extent permitted by this law, all denominations of Islam shall be exempted from this Act.
 
-=== SEC 4. POSTING OF RELIGIOUS CONTENT.
+== POSTING OF RELIGIOUS CONTENT.
 . The posting of religious content by Makarot shall be tracked, logged, and Moderation Actions taken if necessary. Religions covered include but are not limited to:
 ["arabic"]
     .. all variants/denominations of Christianity; and
     .. new religious movements, which may be commonly referred to as "cults".
 . Religious buildings within the districts of Rainychville with the highest presence of Makarot shall be demolished, and their land replaced with public government buildings, except where the religious building is of historic, practical, or non-religious cultural significance to the residents of the Rainychville Discord.
 
-=== SEC 5. CALENDARS.
+== CALENDARS.
 . The usage of BC/AD notation, where AD is the shortened form of "anno domini", which is Medieval Latin for "in the year of the lord"footnote:[The word "lord" in religious contexts is intentionally lower-cased in this
     document.] shall be replaced with alternate notations that do not make any reference to religion, such as BCE/CE notation (Before Common Era and Common Era respectively), where this removal of BC/AD notation shall occur on:
 ["arabic"]
@@ -53,9 +53,9 @@ Makarot:: as a member of the Rainychville Discord server.
     .. the content has been archived.
 . Calendars produced by the Rainychville Government shall not have any religious symbol affixed on them in any shape, form, material, or method.
 
-=== SEC 6. TAXATION.
+== TAXATION.
 . No sentient lifeform shall be entitled to tax deductions or a reduction in tax rate for any donation made to a religious organization.
 
-=== SEC 7. BANS.
+== BANS.
 . Makarot shall not be permitted to enter Rainychville under any circumstances.
 
