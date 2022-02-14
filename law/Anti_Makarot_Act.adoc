@@ -9,11 +9,11 @@ _From RandomFan#3511 Rainychville Law Services_
 
 [.text-center]
 [discrete]
-==== Rainychville Government
+*Rainychville Government*
 
 [.text-center]
 [discrete]
-= Anti-Makarot Act
+Anti-Makarot Act
 
 [.text-center]
 *AN ACT* to mitigae the effects of Makarot's continued posting of religious material, sometimes racist or discriminatory on the Rainychville Discord.
