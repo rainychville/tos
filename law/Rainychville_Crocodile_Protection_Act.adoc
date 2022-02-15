@@ -30,7 +30,24 @@ crocodile's wellbeing.
 . The RWS, where it's jurisdiction overlaps with similar organizations
 of the Rainychville Government, shall collaborate with aforementioned
 similar organizations to perform their collective duties.
-
+. The RWS shall consist of:
+["arabic"]
+.. the Rainychville Park Police (RPP), which shall have the authority
+to make arrests in national parks; and
+.. the RWS Internet Division (RWSID), which shall:
+["arabic"]
+... publish information educating and informing people on the nature of
+Rainychville crocodiles, so as to prevent the poaching, abuse, or
+infliction of harm or pain by any sentient lifeform towards a
+Rainychville Crocodile; and
+... publish advertisements to persuade people to visit Rainychville
+national parks, while keeping a safe distance from Rainychville crocodiles;
+... and for the representation of the RWS on the internet; and
+.. the Rainychville Park Rangers, which shall oversee the maintenance of
+national parks; and
+.. the Rainychville Wildlife Veterinarian Service (RWVS), which shall
+oversee the medical care of Rainychville crocodiles and wildlife under the
+jurisdiction of the RWS.
 
 
 ***
