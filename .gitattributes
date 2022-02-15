@@ -1,1 +1,5 @@
 *.py linguist-language=C
+*.txt -linguist-documentation
+*.adoc -linguist-documentation
+*.txt -linguist-detectable
+*.adoc -linguist-detectable
