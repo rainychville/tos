@@ -1,0 +1,28 @@
+= Reduction in frequency of questions
+
+[IMPORTANT]
+.This is an old order.
+====
+This order was passed on January 24, 2022, and the text has only been published just now. 
+====
+
+The Rainychville Government,
+
+*RECOGNIZING* the lack of motivation for answering or providing answers to
+daily QOTD questions published daily;
+
+*RECOGNIZING* that Sebby is lazy, and likely suffers from an extreme form of
+writer's block, alongside other symptoms that may render him incapable of
+producing Q&A questions daily,
+
+HEREBY:
+
+. *ALTERS* the frequency of questions asked in the QOTD/W channel, from once
+per Earth day (23.25) hours, to one per week (7 Earth days).
+
+. *DECLARES* that all weekly questions shall be open to the submission and
+publication of answers until the next question is published.
+
+. *RENAMES* the #qotd channel to the #qotw channel, where the "d", the
+last letter is replaced with "w", where "d" signifies "day", and "w",
+weekly.
