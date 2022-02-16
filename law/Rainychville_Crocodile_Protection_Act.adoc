@@ -73,7 +73,25 @@ part does not cause significant pain to the crocodile.
 . Tracking devices may only be implemented on specific instances of
 Rainychville crocodiles if the implantation of such a tracking device is
 important, beneficial, or critical to a scientific study,
-
+. After a person is supplied with sufficient documentation, in writing or
+digitally, regarding traps or mechanisms, which the Rainychville Government
+is able to determine within reason that such mechanism or trap is being used to
+hunt, kill, harm, hold captive, capture, where the intention of such capture
+is to keep the crocodile as a pet, or to sell it, or to damage a Rainychville
+crocodile physically, the Rainychville Government shall:
+["arabic"]
+.. have the authority to:
+["arabic"]
+... dismantle, disable, destroy, or dispose of the
+trap; and
+... issue orders against the person to cease and desist from the continued
+manufacture, deployment, or preparation of such trap;
+.. where:
+["arabic"]
+... with the disposal of the trap, parties involved in it's preparation,
+["arabic"]
+.... no compensation of any form is granted for the trap's loss or the
+cost incurred by the disposal of the trap.
 
 ***
 
