@@ -882,10 +882,12 @@ TITLE III. MISCELLANEOUS
 
     § 3001. Use of the ":pepeHmmCoffee:" emoji.
     
-        3001.1. The pepeHmmCoffee emoji depicts a Pepe character holding a
-        cup of coffee. You are obliged but not mandated to react to any
-        posting of this Terms and Conditions document with the aforementioned
-        emoji.
+        3001.1. The pepeHmmCoffee emoji depicts a green Pepe character holding
+        a white cup of coffee. You are obliged but not mandated to react to
+        any posting of this Terms and Conditions document with the
+        aforementioned emoji where it is possible; such as when it is in a
+        Discord server or similar communication platform that allows reactions
+        with this emoji.
 
         3001.2. In the event that you attain Discord Nitro, you must use this
         emoji on other servers in copious ammounts while making sure to remain
