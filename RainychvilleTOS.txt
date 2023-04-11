@@ -328,6 +328,10 @@ TITLE I. DISCORD SERVER
         1012.3. If the content of your meme relates to Rainychville you are to
         post it in the RV Memes channel.
 
+        1012.4. All memes posted in the RV Memes channel must be related to
+        Rainychville or be relevant to any element of the server's community,
+        culture, or the server itself.
+
     § 1013. Rainychville events.
 
         1013.1. Rainychville events are sometimes hosted by moderators. This
@@ -364,13 +368,11 @@ TITLE I. DISCORD SERVER
 
     § 1015. Channel-specific rules
 
-        1015.1. You must only speak Malay in the Malay channel.
+        1015.1. *Merged into 1020.2 on 2023-04-12*
 
-        1015.2. You must only speak Bahasa Indonesia in the Indonesian
-        channel.
+        1015.2. *Merged into 1020.2 on 2023-04-12*
 
-        1015.3. All memes in the RV Memes channel must be related to
-        Rainychville.
+        1015.3. *Moved to 1012.4 on 2023-04-12*
 
     § 1016. Copyright
 
@@ -548,6 +550,14 @@ TITLE I. DISCORD SERVER
 
             where (v|V) is a capturing group to either match Rainychville or
             RainychVille.
+
+    § 1020. Language restrictions.
+
+        1020.1. The three working languages of the server shall be English,
+        Malay, and Indonesian. English shall be the primary language.
+        
+        1020.2. Malay and Indonesian shall be spoken only in their designated
+        channels. 
 
 TITLE II. SIMPING FOR RAINYCH
 
