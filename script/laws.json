@@ -44,7 +44,7 @@
     {
         "name": "Anti-Makarot Act",
         "path": "law/Anti_Makarot_Act.txt",
-        "status": "active",
+        "status": "repealed",
         "format": "plaintext",
         "id": "12.1.355.10"
     },
@@ -54,5 +54,15 @@
         "status": "draft",
         "format": "plaintext",
         "id": "12.1.355.11"
+    },
+    {
+        "name": "Repeal the Anti-Makarot Act",
+        "path": "law/Repeal_Anti_Makarot_Act.txt",
+        "status": "active",
+        "format": "plaintext",
+        "id": "12.1.355.12",
+        "repeals": [
+            "12.1.355.10"
+        ]
     }
 ]
