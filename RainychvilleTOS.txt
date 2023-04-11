@@ -111,10 +111,12 @@ TITLE I. DISCORD SERVER
 
     § 1004. Pinging of Rainych outside of non-Patreon channels.
 
-        1004.1. A ping of Rainych is defined as any action that causes 
-        an auditory event to occur on
-        Rainych Ran, device or otherwise presents an obstacle to Rainych Ran's
-        ability to focus on her  current agenda.
+        1004.1. A ping of Rainych is defined as any action that may result
+        in an auditory, visual, or audiovisual notification on one of
+        Rainych Ran's personal devices that either cause her to be distracted
+        or have the possibility of causing such a distraction, regardless of
+        the nature of the distraction or the event that the distraction is
+        attempting to bring Rainych's attention to.
 
         1004.2. Patreon channels are defined as channels where only 
         Patrons who have made a monetary pledge to Rainych Ran are allowed
@@ -767,6 +769,12 @@ TITLE II. SIMPING FOR RAINYCH
         2008.2. You have been imbued with the knowledge that as of
         June 1, 2021, Rainych is single and not engaged yet. You must not act
         on this knowledge in a way that violates this Law.
+
+        2008.3. Any attempts to seriously marry Rainych Ran without her
+        express written permission by force, coercion, or other method where
+        she does not consent, shall be punished by a permanent ban from the
+        server and any other punishments applicable depending on the crimes
+        committed in the execution of this attempt.
          
     § 2009. Medical events caused by Rainych.
 
